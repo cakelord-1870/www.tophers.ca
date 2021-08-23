@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tophers.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tophers.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tophers.ca/collections/tahitian-body-butter.atom"/>
+  <title>Topher&apos;s Beard + Soap Co.</title>
+  <updated>2021-04-17T16:00:41-04:00</updated>
+  <author>
+    <name>Topher&apos;s Beard + Soap Co.</name>
+  </author>
+  <entry>
+    <id>https://www.tophers.ca/products/6655857262756</id>
+    <published>2021-04-17T16:00:41-04:00</published>
+    <updated>2021-04-17T16:00:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/watermelon-taffy-hand-body-lotion"/>
+    <title>Watermelon Taffy - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210414_184936.jpg?v=1618689682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Juicy watermelon, tart lemon and lime blended with white musk and vanilla leave you with the smell of Watermelon Salt Taffy in the air and your skin.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6655857262756</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6655856836772</id>
+    <published>2021-04-17T15:59:33-04:00</published>
+    <updated>2021-04-17T15:59:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/whiskey-woodsmoke-hand-body-lotion"/>
+    <title>Whiskey Woodsmoke - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/WhiskeyHandandBodyLotion.jpg?v=1618689598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Distinctly masculine, our blend of Citrus Zest, velvety smooth Whiskey, Cuban cigars and classic White Woods come together to roar out it's manliness.  This scent screams success and prestige. </span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6655856836772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5984192364708</id>
+    <published>2021-01-14T11:42:46-05:00</published>
+    <updated>2021-01-14T11:42:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/gingerbread-hand-body-lotion"/>
+    <title>Gingerbread - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/HandandBodyLotion-Gingerbread.jpg?v=1610642607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Gingerbread is a classic holiday treat only found in the fall and over the holidays.  Only available for a limited time over Christmas and once it's gone, it's gone until next year.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5984192364708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5984183910564</id>
+    <published>2021-01-14T11:37:16-05:00</published>
+    <updated>2021-01-14T11:37:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/spiced-eggnog-hand-body-lotion"/>
+    <title>Spiced Eggnog - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/HandandBodyLotion-Eggnog.jpg?v=1610642358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Nothing screams the holidays more than Eggnog.  The Holidays are the only time of the year you can purchase eggnog in the stores around here and our lotion is no different.  Only available for a limited time over Christmas and once it's gone, it's gone until next year.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5984183910564</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5984168542372</id>
+    <published>2021-01-14T11:29:30-05:00</published>
+    <updated>2021-01-14T11:29:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/coconut-beach-hand-body-lotion"/>
+    <title>Coconut Beach - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/HandandBodyLotion-CoconutBeach.jpg?v=1610642128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Reminiscent of Hawaiian Tropics Sunscreen this lotion will bring you to the beach, minus the sand.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5984168542372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5984165068964</id>
+    <published>2021-01-14T11:26:52-05:00</published>
+    <updated>2021-01-14T11:26:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/caramel-apple-hand-body-lotion-1"/>
+    <title>Caramel Apple - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/HandandBodyLotion-CaramelApple.jpg?v=1610641692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Tart apples and  sweet caramel come together in this classic fall fair treat of fresh Caramel Apples.  This scent is only available during the holidays, once it's gone, it's gone until next season.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5984165068964</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5984157860004</id>
+    <published>2021-01-14T11:21:48-05:00</published>
+    <updated>2021-01-14T11:21:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/pumpkin-pie-hand-body-lotion"/>
+    <title>Pumpkin Pie - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/HandandBodyLotion-PumpkinPie.jpg?v=1610641532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Classic fall scent of d<span data-mce-fragment="1">elicious sweet &amp; fruity pumpkin with a perfect mix of spices.</span></span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5984157860004</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5861860245668</id>
+    <published>2020-11-15T20:11:41-05:00</published>
+    <updated>2020-11-15T20:11:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/lavender-hand-body-lotion"/>
+    <title>Lavender - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20201011_085619.jpg?v=1605489151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Who doesn't love the smell of lavender, day or night it's a calm and relaxing fragrance.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5861860245668</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5616425205924</id>
+    <published>2020-08-30T20:05:49-04:00</published>
+    <updated>2020-08-30T20:05:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/vanilla-sugar-cookie-hand-body-lotion-bbw-dupe"/>
+    <title>Vanilla Sugar Cookie Hand &amp; Body Lotion - BBW Dupe</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20200830_200111.jpg?v=1598832448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Warm Vanilla and sweet, buttery Sugar Cookie are blended for this lotion.  You will be tempted to taste it.  It's that good. </p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5616425205924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku/>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5508119134372</id>
+    <published>2020-07-31T16:03:27-04:00</published>
+    <updated>2020-07-31T16:03:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/pink-sugar-hand-body-lotion-vs-dupe"/>
+    <title>Pink Sugar Hand &amp; Body Lotion - Aquolina Dupe</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191006-201143_06806ad9-42ef-4ac9-a37e-3e6cb9cbf45b.jpg?v=1596225808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Spun cotton candy, burnt caramel sugar and vanilla dance with light woods, lily of the valley and white musk.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5508119134372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5276897640612</id>
+    <published>2020-06-03T16:35:21-04:00</published>
+    <updated>2020-06-03T16:35:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/summer-bliss-this-fruit-hand-body-lotion"/>
+    <title>Summer Bliss - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20200602_192710.jpg?v=1591216537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Strawberries season here in Ontario marks the start of summer so as tribute we blended Champagne + Fresh Strawberries for this fruity scented scrub.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5276897640612</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5276892889252</id>
+    <published>2020-06-03T16:34:05-04:00</published>
+    <updated>2020-06-03T16:34:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/mango-tango-hand-body-lotion"/>
+    <title>Mango Tango - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20200602_192644.jpg?v=1591216465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Juicy Mango meets sweet, succulent Papaya in this tropical mashup.  Coconut + Musk round out this amazing scent.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5276892889252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5276888400036</id>
+    <published>2020-06-03T16:32:51-04:00</published>
+    <updated>2020-06-03T16:32:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/froot-loops-hand-body-lotion"/>
+    <title>Froot Loops - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20200830_200131.jpg?v=1598832236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Do you remember eating bowl after bowl of rings of sugar coated goodness?  Froot Loops is still a favorite cereal of mine, and now you can add it to your moisturizing routine.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5276888400036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5276880404644</id>
+    <published>2020-06-03T16:30:19-04:00</published>
+    <updated>2020-06-03T16:30:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/mimosa-hand-body-lotion"/>
+    <title>Mimosa - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20200602_192559.jpg?v=1591216274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Bubbly champagne and orange are blended together to replicate every socialites favorite early morning drink.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5276880404644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4762316603531</id>
+    <published>2020-05-28T12:40:22-04:00</published>
+    <updated>2020-05-28T12:40:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/e38bd83af578077b65a31424bd24d085.png?v=1586310966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://www.tophers.ca/products/gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them?
+Give them the gift of choice with a Topher's Beard + Soap Co. gift card.</p>
+<p>Gift cards are delivered by email and contain instructions to redeem them at checkout.
+Our gift cards have no additional processing fees.</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftershave</s:tag>
+    <s:tag>Bar Soap</s:tag>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Bath Bomb Kit</s:tag>
+    <s:tag>Beard Balm</s:tag>
+    <s:tag>Beard Butter</s:tag>
+    <s:tag>Beard Care Samples</s:tag>
+    <s:tag>Beard Oil</s:tag>
+    <s:tag>Body Butter</s:tag>
+    <s:tag>body spray</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Brush</s:tag>
+    <s:tag>Chill Pill</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Comb</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Conditioner Bar</s:tag>
+    <s:tag>Dead Sea</s:tag>
+    <s:tag>Donut</s:tag>
+    <s:tag>Giftbox</s:tag>
+    <s:tag>Kits</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Muscle Butter</s:tag>
+    <s:tag>Oil Based</s:tag>
+    <s:tag>Oil pomade</s:tag>
+    <s:tag>Pomade</s:tag>
+    <s:tag>razor blade double</s:tag>
+    <s:tag>razor blade single</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>Safety Razor</s:tag>
+    <s:tag>Sample Oil</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shampoo Bar</s:tag>
+    <s:tag>Shave Puck</s:tag>
+    <s:tag>Shavettes</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:tag>Stache Wax</s:tag>
+    <s:tag>Sugar Scrub</s:tag>
+    <s:tag>swag</s:tag>
+    <s:tag>Tattoo Butter</s:tag>
+    <s:tag>Water Based</s:tag>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$10.00 CAD</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$25.00 CAD</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$50.00 CAD</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$100.00 CAD</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4324577607819</id>
+    <published>2019-11-02T16:15:15-04:00</published>
+    <updated>2019-11-02T16:15:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/muscle-butter"/>
+    <title>Muscle Butter</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20201116_104353.jpg?v=1605541617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            10.00 - 18.00
+            <a href="https://www.tophers.ca/products/muscle-butter">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p><span>The Arnica plant has been used for years to reduce swelling and for pain management.  Hot and cold compresses have been used as well.  We've combined all the above into one easy to apply gel.</span></p>
+<p><span>We infused arnica plant extract, menthol and select essential oils into a non greasy, fast absorbing gel base.  </span></p>
+<p><span>Waves of hot and cold from the menthol, cinnamon and black pepper essential oils offer relief from muscle strains and pain.  The arnica extract helps to reduce localized swelling which can also offer relief. </span></p>
+<p><span>Massage a small dab of gel into effected area.  </span></p>
+<p><span>Caution: Do NOT wrap.  External use only.  Avoid eyes and sensitive membranes.</span></p>
+<p><span>2.3 oz / 64 g bottle or 4.5 / 128 g bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> Ingredients: Aqua, Menthol, Oryza Sativa (Rice) Bran Oil, Propylene Glycol (and) Diazolidinyl Urea (and) Iodopropynyl Butylcarbamate, Carbomer FD20, Tetrasodium EDTA, Arnica montana (Arnica flower) extract, Cinnamomum burmanni (Cinnamon) Bark Oil, Piper nigrum (pepper) seed oil, Mentha piperita (Peppermint) Leaf Oil.</span></i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Muscle Butter</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4324577607819</id>
+      <title>2.3 oz</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4324577607819</id>
+      <title>4.5 oz</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4223805620363</id>
+    <published>2019-10-09T22:52:25-04:00</published>
+    <updated>2019-10-09T22:52:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/unicorn-hand-body-lotion-1"/>
+    <title>Unicorn - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20200602_192736.jpg?v=1591216575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Have you ever wondered what a Unicorn smells like?  We did to, so we tried our best to guess and share it with you. . . it smells a lot like fruity, juicy bubblegum.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4223805620363</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4223805063307</id>
+    <published>2019-10-09T22:50:49-04:00</published>
+    <updated>2019-10-09T22:50:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/fuzzy-peach-hand-body-lotion"/>
+    <title>Fuzzy Peach - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191006-201303.jpg?v=1570676274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Remember those sugary fuzzy peach gummy candies?  Somehow we fit that scent into our lotion.  Your welcome.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4223805063307</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4223800836235</id>
+    <published>2019-10-09T22:33:56-04:00</published>
+    <updated>2019-10-09T22:33:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/blue-raspberry-hand-body-lotion"/>
+    <title>Blue Raspberry - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191006-201227.jpg?v=1570675194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">We bottled ripened raspberries, sugary cotton candy, and the effervesence of shaved ice.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4223800836235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4223799656587</id>
+    <published>2019-10-09T22:30:09-04:00</published>
+    <updated>2019-10-09T22:30:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/champagne-kiss-hand-body-lotion"/>
+    <title>Champagne Kiss - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191006-201157.jpg?v=1570675164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Tart apples, juicy pears and bubbly champagne make up this lotion, spread on some extra class.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4223799656587</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4223797624971</id>
+    <published>2019-10-09T22:25:10-04:00</published>
+    <updated>2019-10-09T22:25:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/black-raspberry-vanilla-hand-body-lotion"/>
+    <title>Black Raspberry Vanilla - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191006-201127.jpg?v=1570675138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Fresh raspberries, cashmere woods, sandalwood and creamy vanilla are the base of this timeless fragrance.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4223797624971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4223796084875</id>
+    <published>2019-10-09T22:18:49-04:00</published>
+    <updated>2019-10-09T22:18:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/toasted-marshmallow-hand-body-lotion"/>
+    <title>Toasted Marshmallow - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191006-201041.jpg?v=1570675112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Sticky, sugary vanilla and toasty marshmallow goodness.  </span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4223796084875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4223794184331</id>
+    <published>2019-10-09T22:11:37-04:00</published>
+    <updated>2019-10-09T22:11:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/cucumber-melon-hand-body-lotion"/>
+    <title>Cucumber Melon - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191006-200900.jpg?v=1570675079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Clean cucumber and fresh melon are the star of this lotion.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4223794184331</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4223791202443</id>
+    <published>2019-10-09T22:03:02-04:00</published>
+    <updated>2019-10-09T22:03:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/peppermint-cream-hand-body-lotion-1"/>
+    <title>Peppermint Cream - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191006-200842.jpg?v=1570673434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Sharp, invogorating peppermint is blended with soft vanilla Buttercream.  It's a match that comes together so well it's heavenly.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4223791202443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4223789138059</id>
+    <published>2019-10-09T21:58:38-04:00</published>
+    <updated>2019-10-09T21:58:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/peppermint-cream-hand-body-lotion"/>
+    <title>Avocado Mint - Hand &amp; Body Lotion</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191006-201113_8a102fec-38ca-483f-aef2-49b1a5ea2995.jpg?v=1570672719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Scented with Avocado, Eucalyptus and Mint.  Clean, fresh and invigorating.</span></p>
+<p><span>Green Tea Extract, Aloe Vera and Shea Butter form the base of our Hand &amp; Body Lotion.  Thinner than our Body Butter, this lotion leaves a hydrated, non greasy feel, great for warmer months and as an after sun lotion.  Strong enough for full body but light enough to be used as a face moisturizer as well.  96% Natural.</span></p>
+<p><span>9.25 oz bottle.</span></p>
+<p><span>Test on skin before use, may contain allergens.​</span></p>
+<p>​<i><strong>Ingredients:</strong><span> </span>Deionized Water, Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Emulsifying Wax NF, Stearic Acid, Butyrospermum Parkii (Shea Butter), Aloe Barbadensis Leaf Juice, Tocopherol (Vitamin E), Camellia Sinensis (Japanese Green Tea) Leaf Extract, Cetyl Alcohol, Glyceryl Stearate, Carbomer, Phenoxyethanol and Caprylyl Glycol (Optiphen®).</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotion</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4223789138059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+</feed>

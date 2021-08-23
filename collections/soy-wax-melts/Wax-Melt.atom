@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tophers.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tophers.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tophers.ca/collections/soy-wax-melts.atom"/>
+  <title>Topher&apos;s Beard + Soap Co.</title>
+  <updated>2020-05-28T12:40:22-04:00</updated>
+  <author>
+    <name>Topher&apos;s Beard + Soap Co.</name>
+  </author>
+  <entry>
+    <id>https://www.tophers.ca/products/4762316603531</id>
+    <published>2020-05-28T12:40:22-04:00</published>
+    <updated>2020-05-28T12:40:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/e38bd83af578077b65a31424bd24d085.png?v=1586310966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://www.tophers.ca/products/gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them?
+Give them the gift of choice with a Topher's Beard + Soap Co. gift card.</p>
+<p>Gift cards are delivered by email and contain instructions to redeem them at checkout.
+Our gift cards have no additional processing fees.</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftershave</s:tag>
+    <s:tag>Bar Soap</s:tag>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Bath Bomb Kit</s:tag>
+    <s:tag>Beard Balm</s:tag>
+    <s:tag>Beard Butter</s:tag>
+    <s:tag>Beard Care Samples</s:tag>
+    <s:tag>Beard Oil</s:tag>
+    <s:tag>Body Butter</s:tag>
+    <s:tag>body spray</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Brush</s:tag>
+    <s:tag>Chill Pill</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Comb</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Conditioner Bar</s:tag>
+    <s:tag>Dead Sea</s:tag>
+    <s:tag>Donut</s:tag>
+    <s:tag>Giftbox</s:tag>
+    <s:tag>Kits</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Muscle Butter</s:tag>
+    <s:tag>Oil Based</s:tag>
+    <s:tag>Oil pomade</s:tag>
+    <s:tag>Pomade</s:tag>
+    <s:tag>razor blade double</s:tag>
+    <s:tag>razor blade single</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>Safety Razor</s:tag>
+    <s:tag>Sample Oil</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shampoo Bar</s:tag>
+    <s:tag>Shave Puck</s:tag>
+    <s:tag>Shavettes</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:tag>Stache Wax</s:tag>
+    <s:tag>Sugar Scrub</s:tag>
+    <s:tag>swag</s:tag>
+    <s:tag>Tattoo Butter</s:tag>
+    <s:tag>Water Based</s:tag>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$10.00 CAD</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$25.00 CAD</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$50.00 CAD</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$100.00 CAD</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4324604248203</id>
+    <published>2019-11-02T18:16:51-04:00</published>
+    <updated>2019-11-02T18:16:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/christmas-time-wax-melts"/>
+    <title>Christmas Time Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191006-202520_0bc113a3-9957-4e74-92a8-ecc47ceeb3b7.jpg?v=1572733012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crisp breeze, fir and cypress branches, frosted woods, oakmoss and spice.  A December walk through the woods, searching for the perfect Christmas tree.</p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  <span>Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</span></p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4324604248203</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4293914493067</id>
+    <published>2019-10-25T17:02:17-04:00</published>
+    <updated>2019-10-25T17:02:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/coco-lime-verbena-wax-melts"/>
+    <title>Coco-Lime Verbena Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191025-163123.jpg?v=1572037559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The trifecta of coconut, fresh squeezed lime and invigorating verbena come together to stretch out summer a ittle bit longer.</p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  <span>Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</span></p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4293914493067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4293911707787</id>
+    <published>2019-10-25T16:49:54-04:00</published>
+    <updated>2019-10-25T16:49:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/lily-lilac-wax-melts"/>
+    <title>Lily + Lilac Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191025-163138.jpg?v=1572037100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lillies and lilacs come together for this heady floral duo.  Hints of jasmine, rose, lavender and soft musk round out this fragrance.</p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  <span>Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</span></p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4293911707787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4289584300171</id>
+    <published>2019-10-18T23:04:17-04:00</published>
+    <updated>2019-10-18T23:04:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/blueberry-cobbler-wax-melts"/>
+    <title>Blueberry Cobbler Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191018-224750.jpg?v=1571454373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cozy, warm bakery scent of fresh tangy blueberries, soft sugar and vanilla and bakery crust.  May cause hunger pangs.</p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  <span>Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</span></p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4289584300171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4289583186059</id>
+    <published>2019-10-18T23:01:19-04:00</published>
+    <updated>2019-10-18T23:01:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/tahitian-vanilla-wax-melts"/>
+    <title>Tahitian Vanilla Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191018-224647.jpg?v=1571454227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rich, creamy vanilla with hints of tropical flowers.</p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  <span>Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</span></p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4289583186059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4258206875787</id>
+    <published>2019-10-15T17:03:09-04:00</published>
+    <updated>2019-10-15T17:03:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/peppermint-bark-wax-melts"/>
+    <title>Peppermint Bark Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191015-170222.jpg?v=1571173533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Decadent dark chocolate mixed with creamy peppermint and a hint of almond make up these melts.</p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4258206875787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4226039644299</id>
+    <published>2019-10-14T08:53:53-04:00</published>
+    <updated>2019-10-14T08:53:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/sandalwood-wax-melts"/>
+    <title>Sandalwood Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191014-085207.jpg?v=1571057684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Warm and woodsy Sandalwood is blended with soft amber and white woods.</p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4226039644299</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4225674805387</id>
+    <published>2019-10-14T07:38:04-04:00</published>
+    <updated>2019-10-14T07:38:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/combo-deal-of-wax-melts-3-for-15"/>
+    <title>Combo Deal of Wax Melts - 3 for $12</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191014-082156.jpg?v=1571055956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Choose 3 packs of our wax melts.</p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4225674805387</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4225673756811</id>
+    <published>2019-10-13T12:30:16-04:00</published>
+    <updated>2019-10-13T12:30:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/mystical-woods-wax-melts"/>
+    <title>Mystical Woods Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191013-121442.jpg?v=1570984413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A fresh woodsy fragrance.  Balsam, fir and citrus intermingle with notes of spice and cedar.  A hint of oak moss and musk at the base.</p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4225673756811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4225672773771</id>
+    <published>2019-10-13T12:26:27-04:00</published>
+    <updated>2019-10-13T12:26:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/lavender-vanilla-wax-melts"/>
+    <title>Lavender Vanilla Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191013-121423.jpg?v=1570984385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Calm the senses with our rich spiced floral accord. French lavender is warmed with spicy accents of nutmeg and ginger for the main, a background of sweet vanilla bean dances with the florals, adding a lingering sensation of comfort.</p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4225672773771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4225671954571</id>
+    <published>2019-10-13T12:23:56-04:00</published>
+    <updated>2019-10-13T12:23:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/dirty-apple-wax-melts"/>
+    <title>Dirty Apple Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191013-121538.jpg?v=1570984036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Apple Moonshine mixed with dark and earthy patchouli with a little bit of apple pie thrown in.</span></p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4225671954571</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4224061702283</id>
+    <published>2019-10-10T10:30:46-04:00</published>
+    <updated>2019-10-10T10:30:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/spiced-orange-wax-melts"/>
+    <title>Spiced Orange Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191010-104838.jpg?v=1570718986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet and spicey cinnamon followed by a wave of warm orange, hints of nutmeg and clove dance in the background.  </p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  <span>Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</span></p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4224061702283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4224061145227</id>
+    <published>2019-10-10T10:29:05-04:00</published>
+    <updated>2019-10-10T10:29:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/fruity-pebbles-wax-melts"/>
+    <title>Fruity Pebbles Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191010-104803.jpg?v=1570719012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sugary sweet and citrusy with just the right amount of vanilla, just like the cereal.</p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  <span>Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</span></p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4224061145227</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4224060948619</id>
+    <published>2019-10-10T10:28:15-04:00</published>
+    <updated>2019-10-10T10:28:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/strawberries-cream-wax-melts"/>
+    <title>Strawberries + Cream Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191010-104736.jpg?v=1570718959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Just picked strawberries and fresh cream.  Delicious.</p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  <span>Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</span></p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4224060948619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4224059015307</id>
+    <published>2019-10-10T10:24:30-04:00</published>
+    <updated>2019-10-10T10:24:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/lemongrass-verbena-wax-melts"/>
+    <title>Lemongrass Verbena Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191006-202533.jpg?v=1570718019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This colorful lemony pairing combines the uplifting scent of verbena with the oriental aroma of fresh cut lemongrass leaves.</span></p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  <span>Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</span></p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4224059015307</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4224057540747</id>
+    <published>2019-10-10T10:20:03-04:00</published>
+    <updated>2019-10-10T10:20:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/pumpkin-spice-wax-melts-1"/>
+    <title>Pumpkin Spice Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191006-202520_3faa7c62-160c-4f57-8f27-43db8f0a5c83.jpg?v=1570717204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fresh pumpkin, nutmeg, cinnamon and clove mingle with rum and creamy vanilla.</p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  <span>Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</span></p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4224057540747</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4224054526091</id>
+    <published>2019-10-10T10:11:35-04:00</published>
+    <updated>2019-10-10T10:11:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/pumpkin-spice-wax-melts"/>
+    <title>Country Meadow Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191006-202605.jpg?v=1570717278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fresh and clean.  Floral undertones of a country meadow after a summer rain.</p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4224054526091</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4224054165643</id>
+    <published>2019-10-10T10:10:42-04:00</published>
+    <updated>2019-10-10T10:10:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/mulled-cider-wax-melts"/>
+    <title>Mulled Cider Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191006-202455.jpg?v=1570716875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apple cider and fall spices.  </p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  <span>Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</span></p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4224054165643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4224052002955</id>
+    <published>2019-10-10T10:04:42-04:00</published>
+    <updated>2019-10-10T10:04:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/gingerbread-wax-melts"/>
+    <title>Gingerbread Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191006-202432.jpg?v=1570716837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ginger and spice and everything nice.</p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  <span>Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</span></p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4224052002955</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4224041287819</id>
+    <published>2019-10-09T22:50:40-04:00</published>
+    <updated>2019-10-09T22:50:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/whiskey-woodsmoke-wax-melts"/>
+    <title>Whiskey Woodsmoke Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191010-105248.jpg?v=1570719216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our top selling Whiskey Woodsmoke mens scent now available in a wax melt.</p>
+<p>6 cubes - 3 oz - 85 g - Bigger than "the other guys"</p>
+<p>We load our melts with the maximum allowable amount of fragrance as we want our melts to last longer and travel further.  Each 1 inch cube offers between 15 to 20 hours of room filling fragrance, giving you between 80 to 100 hours per 3 oz package.</p>
+<p>Our melts are made from 100% soy wax and our added pthlalate free fragrance.  No other additives.  Soy wax is a complete vegetable wax made from soy beans, a renewable and biodegradable resource so it's better for the environment than some other petroleum based waxes or parasoy blends.  The wax is cleaner and less likely to bother anyone with allergies.  <span>Made with no genetically modified materials, and the packaging is #3 recyclable plastic.</span></p>
+<p>Ingredients - 100% Soy Wax, Fragrance.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4224041287819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+</feed>

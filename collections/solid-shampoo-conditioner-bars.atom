@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tophers.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tophers.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tophers.ca/collections/solid-shampoo-conditioner-bars.atom"/>
+  <title>Topher&apos;s Beard + Soap Co.</title>
+  <updated>2021-05-18T08:52:09-04:00</updated>
+  <author>
+    <name>Topher&apos;s Beard + Soap Co.</name>
+  </author>
+  <entry>
+    <id>https://www.tophers.ca/products/6709020000420</id>
+    <published>2021-05-18T08:52:09-04:00</published>
+    <updated>2021-05-18T08:52:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/shampoo-bar-whiskey-woodsmoke"/>
+    <title>Shampoo Bar - Whiskey Woodsmoke</title>
+    <s:type>Shampoo Bar</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210518_085104.jpg?v=1621342470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shampoo Bar<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shampoo bars are all the rage right now and with good reason. . . No plastic bottle to throw out, minimalist packaging and these little pucks will outlast 2 or even 3 bottles of commercial shampoo. Made with mild ingredients, our shampoo bars are not your average bar of soap which can leave your hair dry, crunchy and stripped of all it's oils.  Scented with our best selling scent in guy related products, Whiskey Woodsmoke.</p>
+<p>Prepared with mild, hair safe surfectants, skin loving oils and a detangling agent, as well as D. Panthenol and Silk Peptides for shine and smoothing your hair will look it's best. Natural soap has a PH level of 8 plus that is actually damaging to hair, while our SynDet (synthetic detergent) bar is at a PH of approximately 5.8. You'll be able to feel the difference.</p>
+<p>Each bar is just over 2 oz and needs to be kept dry between uses to get the most out of it.</p>
+<p>Directions for use: Wet hair and then either rub bar between hands or directly on hair. Lather away and then rinse clean. While not necessary, it works best if paired with Topher's Conditioner Bar.</p>
+<p><em>Ingredients: Sodium Cocoyl Isethionate, Sodium Coco Sulphate, Cocamidopropyl Betaine, Propylene Glycol, Fragrance, Dimethicone, Jojoba Oil, Cetrimonium chloride, D-Panthenol, Silk Peptide, Germall Plus.</em></p>
+<p>Test on skin before use, may contain allergens.</p>
+<p><em> </em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shampoo Bar</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6709020000420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>71</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5885753983140</id>
+    <published>2020-11-26T10:26:34-05:00</published>
+    <updated>2020-11-26T10:26:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/shampoo-bar-lavendee-vanilla"/>
+    <title>Shampoo Bar - Lavender Vanilla</title>
+    <s:type>Shampoo Bar</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20201125_213257.jpg?v=1606404646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shampoo Bar<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shampoo bars are all the rage right now and with good reason. . . No plastic bottle to throw out, minimalist packaging and these little pucks will outlast 2 or even 3 bottles of commercial shampoo. Made with mild ingredients our shampoo bars are not your average bar of soap which can leave your hair dry, crunchy and stripped of all it's oils.  Scented with our Spiced Lavender Vanilla blend of French lavender, nutmeg, ginger on a base of sweet vanilla. A soothing and calming fragrance. </p>
+<p>Prepared with mild, hair safe surfactants, skin loving oils and a detangling agent, as well as D. Panthenol and Silk Peptides for shine and smoothing your hair will look it's best. Natural soap has a PH level of 8 plus that is actually damaging to hair, while our SynDet (synthetic detergent) bar is at a PH of approx 5.8. You'll be able to feel the difference.</p>
+<p>Each bar is just over 2 oz and needs to be kept dry between uses to get the most out of it.</p>
+<p>Directions for use: Wet hair and then either rub bar between hands or directly on hair. Lather away and then rinse clean. While not necessary, it works best if paired with Topher's Conditioner Bar.</p>
+<p><em>Ingredients: Sodium Cocoyl Isethionate, Sodium Coco Sulphate, Cocamidopropyl Betaine, Propylene Glycol, Fragrance, Dimethicone, Jojoba Oil, Cetrimonium chloride, D-Panthenol, Silk Peptide, Germall Plus.</em></p>
+<p>Test on skin before use, may contain allergens.</p>
+<p><em> </em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shampoo Bar</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5885753983140</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>71</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5851456635044</id>
+    <published>2020-11-09T22:09:14-05:00</published>
+    <updated>2020-11-09T22:09:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/copy-of-shampoo-bar-raspberry-kisses"/>
+    <title>Shampoo Bar - Raspberry Kisses</title>
+    <s:type>Shampoo Bar</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20201109_220358.jpg?v=1604977848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shampoo Bar<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shampoo bars are all the rage right now and with good reason. . . No plastic bottle to throw out, minimalist packaging and these little pucks will outlast 2 or even 3 bottles of commercial shampoo. Made with mild ingredients our shampoo bars are not your average bar of soap which can leave your hair dry, crunchy and stripped of all it's oils.  Scented with the fresh and fruity scent of Black Raspberry Vanilla but we doubled down on the Raspberry and changed it to Raspberry Kisses.</p>
+<p>Prepared with mild, hair safe surfactants, skin loving oils and a detangling agent, as well as D. Panthenol and Silk Peptides for shine and smoothing your hair will look it's best. Natural soap has a PH level of 8 plus that is actually damaging to hair, while our SynDet (synthetic detergent) bar is at a PH of approx 5.8. You'll be able to feel the difference.</p>
+<p>Each bar is just over 2 oz and needs to be kept dry between uses to get the most out of it.</p>
+<p>Directions for use: Wet hair and then either rub bar between hands or directly on hair. Lather away and then rinse clean. While not necessary, it works best if paired with Topher's Conditioner Bar.</p>
+<p><em>Ingredients: Sodium Cocoyl Isethionate, Sodium Coco Sulphate, Cocamidopropyl Betaine, Propylene Glycol, Fragrance, Dimethicone, Jojoba Oil, Cetrimonium chloride, D-Panthenol, Silk Peptide, Germall Plus.</em></p>
+<p>Test on skin before use, may contain allergens.</p>
+<p><em> </em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shampoo Bar</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5851456635044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>71</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4762316603531</id>
+    <published>2020-05-28T12:40:22-04:00</published>
+    <updated>2020-05-28T12:40:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/e38bd83af578077b65a31424bd24d085.png?v=1586310966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://www.tophers.ca/products/gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them?
+Give them the gift of choice with a Topher's Beard + Soap Co. gift card.</p>
+<p>Gift cards are delivered by email and contain instructions to redeem them at checkout.
+Our gift cards have no additional processing fees.</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftershave</s:tag>
+    <s:tag>Bar Soap</s:tag>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Bath Bomb Kit</s:tag>
+    <s:tag>Beard Balm</s:tag>
+    <s:tag>Beard Butter</s:tag>
+    <s:tag>Beard Care Samples</s:tag>
+    <s:tag>Beard Oil</s:tag>
+    <s:tag>Body Butter</s:tag>
+    <s:tag>body spray</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Brush</s:tag>
+    <s:tag>Chill Pill</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Comb</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Conditioner Bar</s:tag>
+    <s:tag>Dead Sea</s:tag>
+    <s:tag>Donut</s:tag>
+    <s:tag>Giftbox</s:tag>
+    <s:tag>Kits</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Muscle Butter</s:tag>
+    <s:tag>Oil Based</s:tag>
+    <s:tag>Oil pomade</s:tag>
+    <s:tag>Pomade</s:tag>
+    <s:tag>razor blade double</s:tag>
+    <s:tag>razor blade single</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>Safety Razor</s:tag>
+    <s:tag>Sample Oil</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shampoo Bar</s:tag>
+    <s:tag>Shave Puck</s:tag>
+    <s:tag>Shavettes</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:tag>Stache Wax</s:tag>
+    <s:tag>Sugar Scrub</s:tag>
+    <s:tag>swag</s:tag>
+    <s:tag>Tattoo Butter</s:tag>
+    <s:tag>Water Based</s:tag>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$10.00 CAD</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$25.00 CAD</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$50.00 CAD</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$100.00 CAD</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/2960885022820</id>
+    <published>2019-03-04T10:43:29-05:00</published>
+    <updated>2019-03-04T10:43:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/solid-conditioner-bar-bamboo-teak"/>
+    <title>Solid Conditioner Bar - Bamboo</title>
+    <s:type>Conditioner Bar</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/ConditionerBar-Bamboo.jpg?v=1610643615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Conditioner Bar<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hair Conditioner Bars will outlast 2 or even 3 bottles of your commercial bottled conditioner. Liquid conditioner is 90 to 95 percent water while these bars are packed full of potent conditioning, detangling and shine agents with no added liquids or filler.</p>
+<p>We've added Cocoa and Shea butters for softening and shine along with Honeyquat, Panthenol B5 and Silk Peptides. This coupled with the full strength conditioning and detangling agents mean you'll need less to get a lot more.</p>
+<p>Directions: Wash your hair using Topher's Shampoo Bar and then wet the Conditioner bar and drag it through your hair from root to tip, massage product into your hair and leave for 3 to 5 mins then rinse clean and enjoy your soft, tangle free locks. Allow to dry between uses to get the most of your purchase.</p>
+<p>It will feel slightly different then liquid conditioner as the products are more concentrated so it may not feel that you have any product in your hair. Trust the process and you will find out why conditioner bars are so much better than liquids.</p>
+<p><em>Ingredients: Incroquat Behenyl TMS 50, Emulsifying Wax, Cetyl Alcohol, Cocoa Butter, Shea Butter, Jojoba Oil, Honeyquat PF, Fragrance, Panthenol B5. Hydrolysed Oat Protein, Silk Peptides, Cetrimonium Chloride, Cyclomithecone, Dimethicone, Germall Plus.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Conditioner Bar</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/2960885022820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>71</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/2960818307172</id>
+    <published>2019-03-04T10:29:23-05:00</published>
+    <updated>2019-03-04T10:29:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/shampoo-bar-elixer-no-4"/>
+    <title>Shampoo Bar - Elixir No 4.</title>
+    <s:type>Shampoo Bar</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20201109_220411.jpg?v=1604977712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shampoo Bar<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shampoo bars are all the rage right now and with good reason. . . No plastic bottle to throw out, minimalist packaging and these little pucks will outlast 2 or even 3 bottles of commercial shampoo. Made with mild ingredients our shampoo bars are not your average bar of soap which can leave your hair dry, crunchy and stripped of all it's oils.  Added Rosemary + Mint Essential Oils add hair strengthening and conditioning properties.</p>
+<p>Prepared with mild, hair safe surfectants, skin loving oils and a detangling agent, as well as D. Panthenol and Silk Peptides for shine and smoothing your hair will look it's best. Natural cold process soap has a PH level of 8 plus that is actually damaging to hair, while our SynDet (synthetic detergent) bar is at a PH of approx 5.8. You'll be able to feel the difference.</p>
+<p>Each bar is just over 2 oz and needs to be kept dry between uses to get the most out of it.</p>
+<p>Directions for use: Wet hair and then either rub bar between hands or directly on hair. Lather away and then rinse clean. While not necessary, it works best if paired with Topher's Conditioner Bar.</p>
+<p><em>Ingredients: Sodium Cocoyl Isethionate, Sodium Coco Sulphate, Cocamidopropyl Betaine, Propylene Glycol, Fragrance, Dimethicone, Jojoba Oil, Cetrimonium chloride, D-Panthenol, Silk Peptide, Germall Plus.</em></p>
+<p>Test on skin before use, may contain allergens.</p>
+<p><em> </em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shampoo Bar</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/2960818307172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>71</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/2960805789796</id>
+    <published>2019-03-04T10:29:23-05:00</published>
+    <updated>2019-03-04T10:29:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/shampoo-bar-bamboo-teak"/>
+    <title>Shampoo Bar - Bamboo</title>
+    <s:type>Shampoo Bar</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20201109_220424.jpg?v=1604977614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shampoo Bar<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shampoo bars are all the rage right now and with good reason. . . No plastic bottle to throw out, minimalist packaging and these little pucks will outlast 2 or even 3 bottles of commercial shampoo. Made with mild ingredients our shampoo bars are not your average bar of soap which can leave your hair dry, crunchy and stripped of all it's oils.  Scented with the clean, spa friendly scent of Bamboo.</p>
+<p>Prepared with mild, hair safe surfectants, skin loving oils and a detangling agent, as well as D. Panthenol and Silk Peptides for shine and smoothing your hair will look it's best. Natural soap has a PH level of 8 plus that is actually damaging to hair, while our SynDet (synthetic detergent) bar is at a PH of approx 5.8. You'll be able to feel the difference.</p>
+<p>Each bar is just over 2 oz and needs to be kept dry between uses to get the most out of it.</p>
+<p>Directions for use: Wet hair and then either rub bar between hands or directly on hair. Lather away and then rinse clean. While not necessary, it works best if paired with Topher's Conditioner Bar.</p>
+<p><em>Ingredients: Sodium Cocoyl Isethionate, Sodium Coco Sulphate, Cocamidopropyl Betaine, Propylene Glycol, Fragrance, Dimethicone, Jojoba Oil, Cetrimonium chloride, D-Panthenol, Silk Peptide, Germall Plus.</em></p>
+<p>Test on skin before use, may contain allergens.</p>
+<p><em> </em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shampoo Bar</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/2960805789796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>71</s:grams>
+    </s:variant>
+  </entry>
+</feed>

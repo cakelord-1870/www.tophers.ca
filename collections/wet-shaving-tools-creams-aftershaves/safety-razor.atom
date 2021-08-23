@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tophers.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tophers.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tophers.ca/collections/wet-shaving-tools-creams-aftershaves.atom"/>
+  <title>Topher&apos;s Beard + Soap Co.</title>
+  <updated>2021-03-07T11:31:00-05:00</updated>
+  <author>
+    <name>Topher&apos;s Beard + Soap Co.</name>
+  </author>
+  <entry>
+    <id>https://www.tophers.ca/products/6565941575844</id>
+    <published>2021-03-07T11:31:00-05:00</published>
+    <updated>2021-03-07T11:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/copy-of-barbershop-shave-puck"/>
+    <title>Tabac + Leather Shave Puck</title>
+    <s:type>Shave Puck</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210307_110146.jpg?v=1615134841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shave Puck<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We aren't that big on the whole shaving thing around here but we understand sometimes it has to be done and here at Topher's we figured if you are going to shave, you may as we get the best shave you can get.</p>
+<p>A 4 ounce puck of chemical free, natural shave soap with thick long lasting lather and great razor glide. H<span data-mce-fragment="1">earty notes of tobacco and leather, tonka bean and oud wood complete this earthy fragrance. </span> Let us help you make your next wet shave the best it can be.</p>
+<p>Made with the finest oils and butters, this is a true old school shaving puck, not just a round bar of soap with added clay for slip. We've taken an old recipe and refined it. With lard, shea butter and coconut oil at its base we've added extra castor oil and vegetable glycerin for slip and hemp seed oil for skin conditioning. Our shave puck isn't drying like most commercial shaving creams on the market today and the stable lather offers more slip and skin conditioning then it's mass produced counterparts.</p>
+<p>Best if paired with Topher's Manscape Butter as a cream aftershave.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shave Puck</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6565941575844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6565932728484</id>
+    <published>2021-03-07T11:21:21-05:00</published>
+    <updated>2021-03-07T11:21:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/charred-oak-bourbon-shave-puck"/>
+    <title>Charred Oak Bourbon Shave Puck</title>
+    <s:type>Shave Puck</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210307_110130_de0ea601-17e8-4e06-b1b9-c33857e92d5e.jpg?v=1615134453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shave Puck<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We aren't that big on the whole shaving thing around here but we understand sometimes it has to be done and here at Topher's we figured if you are going to shave, you may as we get the best shave you can get.</p>
+<p>A 4 ounce puck of chemical free, natural shave soap with thick long lasting lather and great razor glide. If you like bourbon scented products than this is for you.  With an intoxicating blend of bourbon notes like vanilla, caramel, charred oak barrel, cassis and dark molasses you'll feel like you are shaving in the rackhouse among your favorite liquor.  Let us help you make your next wet shave the best it can be.</p>
+<p>Made with the finest oils and butters, this is a true old school shaving puck, not just a round bar of soap with added clay for slip. We've taken an old recipe and refined it. With lard, shea butter and coconut oil at its base we've added extra castor oil and vegetable glycerin for slip and hemp seed oil for skin conditioning. Our shave puck isn't drying like most commercial shaving creams on the market today and the stable lather offers more slip and skin conditioning then it's mass produced counterparts.</p>
+<p>Best if paired with Topher's Manscape Butter as a cream aftershave.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shave Puck</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6565932728484</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6565927256228</id>
+    <published>2021-03-07T11:17:14-05:00</published>
+    <updated>2021-03-07T11:17:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/copy-of-shave-puck-barbershop"/>
+    <title>Whiskey Woodsmoke Shave Puck</title>
+    <s:type>Shave Puck</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210307_110159.jpg?v=1615134047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shave Puck<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We aren't that big on the whole shaving thing around here but we understand sometimes it has to be done and here at Topher's we figured if you are going to shave, you may as we get the best shave you can get.</p>
+<p>A 4 ounce puck of chemical free, natural shave soap with thick long lasting lather and great razor glide. Lightly scented, with <span data-mce-fragment="1">a blend of Bergamot, Cognac, Cedarwood oils + the sweet smell of Cuban Cigars.</span> Let us help you make your next wet shave the best it can be.</p>
+<p>Made with the finest oils and butters, this is a true old school shaving puck, not just a round bar of soap with added clay for slip. We've taken an old recipe and refined it. With lard, shea butter and coconut oil at its base we've added extra castor oil and vegetable glycerin for slip and hemp seed oil for skin conditioning. Our shave puck isn't drying like most commercial shaving creams on the market today and the stable lather offers more slip and skin conditioning then it's mass produced counterparts.</p>
+<p>Best if paired with Topher's Manscape Butter as a cream aftershave.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shave Puck</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6565927256228</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4762316603531</id>
+    <published>2020-05-28T12:40:22-04:00</published>
+    <updated>2020-05-28T12:40:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/e38bd83af578077b65a31424bd24d085.png?v=1586310966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://www.tophers.ca/products/gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them?
+Give them the gift of choice with a Topher's Beard + Soap Co. gift card.</p>
+<p>Gift cards are delivered by email and contain instructions to redeem them at checkout.
+Our gift cards have no additional processing fees.</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftershave</s:tag>
+    <s:tag>Bar Soap</s:tag>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Bath Bomb Kit</s:tag>
+    <s:tag>Beard Balm</s:tag>
+    <s:tag>Beard Butter</s:tag>
+    <s:tag>Beard Care Samples</s:tag>
+    <s:tag>Beard Oil</s:tag>
+    <s:tag>Body Butter</s:tag>
+    <s:tag>body spray</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Brush</s:tag>
+    <s:tag>Chill Pill</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Comb</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Conditioner Bar</s:tag>
+    <s:tag>Dead Sea</s:tag>
+    <s:tag>Donut</s:tag>
+    <s:tag>Giftbox</s:tag>
+    <s:tag>Kits</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Muscle Butter</s:tag>
+    <s:tag>Oil Based</s:tag>
+    <s:tag>Oil pomade</s:tag>
+    <s:tag>Pomade</s:tag>
+    <s:tag>razor blade double</s:tag>
+    <s:tag>razor blade single</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>Safety Razor</s:tag>
+    <s:tag>Sample Oil</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shampoo Bar</s:tag>
+    <s:tag>Shave Puck</s:tag>
+    <s:tag>Shavettes</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:tag>Stache Wax</s:tag>
+    <s:tag>Sugar Scrub</s:tag>
+    <s:tag>swag</s:tag>
+    <s:tag>Tattoo Butter</s:tag>
+    <s:tag>Water Based</s:tag>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$10.00 CAD</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$25.00 CAD</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$50.00 CAD</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$100.00 CAD</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4549295014027</id>
+    <published>2020-02-14T09:11:30-05:00</published>
+    <updated>2020-02-14T09:11:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/shave-puck-margarita-on-the-rocks"/>
+    <title>Margarita on the Rocks Shave Puck</title>
+    <s:type>Shave Puck</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20200722_195730.jpg?v=1595533570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shave Puck<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We aren't that big on the whole shaving thing around here but we understand sometimes it has to be done and here at Topher's we figured if you are going to shave, you may as we get the best shave you can get.</p>
+<p>A 4 ounce puck of chemical free, natural shave soap with thick long lasting lather and great razor glide.  Scented with <span mce-data-marked="1">a blend of tequila, salt and effervescent lime blended with the chill of pure menthol.</span></p>
+<p>Let us help you make your next wet shave the best it can be.</p>
+<p>Made with the finest oils and butters, this is a true old school shaving puck, not just a round bar of soap with added clay for slip. We've taken an old recipe and refined it. With a lard, shea butter and coconut oil base we've added extra castor oil and vegetable glycerin for slip and hemp seed oil for skin conditioning. Our shave puck isn't drying like most commercial shaving creams on the market today and the stable lather offers more slip and skin conditioning then it's mass produced counterparts.</p>
+<p>Best if paired with Topher's Manscape Butter as a cream aftershave.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shave Puck</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4549295014027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4549246550155</id>
+    <published>2020-02-14T09:03:12-05:00</published>
+    <updated>2020-02-14T09:03:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/shave-puck-date-night"/>
+    <title>Date Night Shave Puck</title>
+    <s:type>Shave Puck</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20200214_083755.jpg?v=1581689041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shave Puck<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We aren't that big on the whole shaving thing around here but we understand sometimes it has to be done and here at Topher's we figured if you are going to shave, you may as we get the best shave you can get.</p>
+<p>A 4 ounce puck of chemical free, natural shave soap with thick long lasting lather and great razor glide.  Scented with <span>house blend of teak, sandalwood, ocean spray, spicy peppercorns and vetiver intermingle with light citrus notes and frankincense.</span></p>
+<p>Let us help you make your next wet shave the best it can be.</p>
+<p>Made with the finest oils and butters, this is a true old school shaving puck, not just a round bar of soap with added clay for slip. We've taken an old recipe and refined it. With a lard, shea butter and coconut oil base we've added extra castor oil and vegetable glycerin for slip and hemp seed oil for skin conditioning. Our shave puck isn't drying like most commercial shaving creams on the market today and the stable lather offers more slip and skin conditioning then it's mass produced counterparts.</p>
+<p>Best if paired with Topher's Manscape Butter as a cream aftershave.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shave Puck</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4549246550155</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/3079652868196</id>
+    <published>2019-03-16T10:04:07-04:00</published>
+    <updated>2019-03-16T10:04:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/astra-superior-stainless-double-edge-safety-razor-blades-5-pacl"/>
+    <title>Astra Superior Stainless Double Edge Safety Razor Blades - 5 pack</title>
+    <s:type>razor blade</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20190312_145945.jpg?v=1552745553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>razor blade<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>With the privatization of companies throughout the Soviet Bloc after the fall of the iron curtain, Gillette acquired Astra, a blade manufacturing company. Soon these excellent razor blades were being distributed around the world. Originally manufactured in the Czech Republic, now they are produced in Russia.</span></p>
+<p><span>These blades will fit our safety razors and give a great, smooth shave with little to no drag, even after a half dozen shaves.</span></p>
+<p><span>Package of 5 Double Edged blades.  Product of Russia.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>razor blade double</s:tag>
+    <s:tag>Safety Razor</s:tag>
+    <s:tag>Shavettes</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/3079652868196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/3079564722276</id>
+    <published>2019-03-16T09:56:47-04:00</published>
+    <updated>2019-03-16T09:56:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/lord-stainless-platinum-single-edge-blades-100"/>
+    <title>Lord Stainless Platinum Single Edge Blades - 100 pack</title>
+    <s:type>razor blade</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20190312_145809.jpg?v=1552744797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>razor blade<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description rte" itemprop="description">
+<p>These Egyptian made stainless steel blades are top shelf blades and in a league with Iridiums and Feathers. Platinum coated, they are sharp and smooth...you cannot ask for much more. </p>
+</div>
+<p>These individually wrapped blades are stiffer then most of the competition making them great for beard touch ups, lineups.</p>
+<p>These blades will fit our shavette razors.</p>
+<p>Package of 100 single edge blades. Product of Egypt</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>razor blade single</s:tag>
+    <s:tag>Safety Razor</s:tag>
+    <s:tag>Shavettes</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/3079564722276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/3041134477412</id>
+    <published>2019-03-12T10:35:33-04:00</published>
+    <updated>2019-03-12T10:35:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/black-stainless-steel-shavette-straight-razor"/>
+    <title>BLACK + STAINLESS STEEL SHAVETTE STRAIGHT RAZOR</title>
+    <s:type>Shavettes</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/Razor_Black_on_Black_3c918b14-8bcb-497f-89ed-46537b0e0127.jpg?v=1552402111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shavettes<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>​The Shavette is a disposable razor that has the look + feel of a cut throat blade.  These are perfect for those new to straight razors, + the same as ones used by their barbers who change blades between customers.  A shavette is an inexpensive way to try out straight razor shaving or clean ups without buying an expensive cut throat blade, strop + sharpening stone.  It also removes the need to learn how to sharpen your blade, you change it for a new one once the old blade has dulled.</span><br><br><span>We have several styles + colors to choose from and all come in black foam lined gift box.</span></p>
+<p><span>We also sell replacement blades for all our razors.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shavettes</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/3041134477412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/3041123991652</id>
+    <published>2019-03-12T10:35:33-04:00</published>
+    <updated>2019-03-12T10:35:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/black-shavette-straight-razor"/>
+    <title>BLACK SHAVETTE STRAIGHT RAZOR</title>
+    <s:type>Shavettes</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/Razor_Black_on_Black.jpg?v=1552402074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shavettes<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>​The Shavette is a disposable razor that has the look + feel of a cut throat blade.  These are perfect for those new to straight razors, + the same as ones used by their barbers who change blades between customers.  A shavette is an inexpensive way to try out straight razor shaving or clean ups without buying an expensive cut throat blade, strop + sharpening stone.  It also removes the need to learn how to sharpen your blade, you change it for a new one once the old blade has dulled.</span><br><br><span>We have several styles + colors to choose from and all come in black foam lined gift box.</span></p>
+<p><span>We also sell replacement blades for all our razors.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shavettes</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/3041123991652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>156</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/3041109540964</id>
+    <published>2019-03-12T10:35:33-04:00</published>
+    <updated>2019-03-12T10:35:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/black-red-shavette-straight-razor"/>
+    <title>BLACK + RED SHAVETTE STRAIGHT RAZOR</title>
+    <s:type>Shavettes</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/Razor_Red_Black_Closed.jpg?v=1552401952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shavettes<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>​The Shavette is a disposable razor that has the look + feel of a cut throat blade.  These are perfect for those new to straight razors, + the same as ones used by their barbers who change blades between customers.  A shavette is an inexpensive way to try out straight razor shaving or clean ups without buying an expensive cut throat blade, strop + sharpening stone.  It also removes the need to learn how to sharpen your blade, you change it for a new one once the old blade has dulled.</span><br><br><span>We have several styles + colors to choose from and all come in black foam lined gift box.</span></p>
+<p><span>We also sell replacement blades for all our razors.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shavettes</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/3041109540964</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>156</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/3041067696228</id>
+    <published>2019-03-12T10:35:33-04:00</published>
+    <updated>2019-03-12T10:35:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/black-red-filigree-shavette-razor"/>
+    <title>BLACK + RED FILIGREE SHAVETTE STRAIGHT RAZOR</title>
+    <s:type>Shavettes</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/Razor_Red_Design_Closed.jpg?v=1552401613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shavettes<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>​The Shavette is a disposable razor that has the look + feel of a cut throat blade.  These are perfect for those new to straight razors, + the same as ones used by their barbers who change blades between customers.  A shavette is an inexpensive way to try out straight razor shaving or clean ups without buying an expensive cut throat blade, strop + sharpening stone.  It also removes the need to learn how to sharpen your blade, you change it for a new one once the old blade has dulled.</span><br><br><span>We have several styles + colors to choose from and all come in black foam lined gift box.</span></p>
+<p><span>We also sell replacement blades for all our razors.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shavettes</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/3041067696228</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>156</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/3041055146084</id>
+    <published>2019-03-12T10:35:33-04:00</published>
+    <updated>2019-03-12T10:35:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/black-grey-wood-handled-cutthroat-straight-razor"/>
+    <title>BLACK + GREY WOOD HANDLED CUTTHROAT STRAIGHT RAZOR</title>
+    <s:type>Shavettes</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/Razor_Cutthroat_Open.jpg?v=1552401468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shavettes<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>We here at Topher's are not condoning shaving + thought we should stock these razors for those that want to do their own touch ups between visits to their barbers.</span><br><br><span>The cutthroat razor has a quality wooden handle with a properly weighted stainless steel sharpened blade.  These are for the more experienced shaver who knows how to strop + sharpen their own blades.  This is an entry level blade to try before buying a more expensive one for long term.</span><br><br><span>Comes in a foam lined box.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shavettes</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/3041055146084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/2841467912292</id>
+    <published>2019-02-18T16:36:05-05:00</published>
+    <updated>2019-02-18T16:36:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/wood-stainless-steel-double-edge-safety-razor"/>
+    <title>Wood + Stainless Steel Double Edge Safety Razor</title>
+    <s:type>Safety Razor</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/Wood_handled_Safety_Razor.jpg?v=1550547249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Safety Razor<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>We here at Topher's are not condoning shaving and thought we should stock these razors for those that want to do their own touch ups between visits to their barbers.</span><br><br><span>The classic closed comb head is combined with a weighted handle for a comfortable feel in your hands as you achieve a super close wet shave.  The 2 tone wood handle offers grip and the stainless steel shave head makes for a good looking traditional wet shaving safety razor.  A quality razor gives a closer shave than disposables which in turn reduces ingrown hairs and irritation.</span><br><br><span>We have several styles and colors to choose from and all come in black foam lined gift box.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Safety Razor</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/2841467912292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/2841368592484</id>
+    <published>2019-02-18T16:36:05-05:00</published>
+    <updated>2019-02-18T16:36:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/black-black-steel-smooth-double-edge-safety-razor"/>
+    <title>Black + Stainless Steel Smooth Double Edge Safety Razor</title>
+    <s:type>Safety Razor</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/Black_and_Silver_Safety_Razor_Main.jpg?v=1550546577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Safety Razor<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>We here at Topher's are not condoning shaving and thought we should stock these razors for those that want to do their own touch ups between visits to their barbers.</span><br><br><span>The classic closed comb head is combined with a weighted handle for a comfortable feel in your hands as you achieve a super close wet shave.  The 2 tone handle offers grip and the stainless steel and black anodized makes for a good looking traditional wet shaving safety razor.  A quality razor gives a closer shave than disposables which in turn reduces ingrown hairs and irritation.</span><br><br><span>We have several styles and colors to choose from and all come in black foam lined gift box.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Safety Razor</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/2841368592484</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/2841339625572</id>
+    <published>2019-02-18T16:36:05-05:00</published>
+    <updated>2019-02-18T16:36:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/black-black-steel-double-edge-safety-razor"/>
+    <title>Black + Black Steel Double Edge Safety Razor</title>
+    <s:type>Safety Razor</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/Black_on_Black_razor_main.jpg?v=1550546076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Safety Razor<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>We here at Topher's are not condoning shaving and thought we should stock these razors for those that want to do their own touch ups between visits to their barbers.</span><br><br><span>The classic closed comb head is combined with a weighted handle for a comfortable feel in your hands as you achieve a super close wet shave.  The knurled handle offers grip and the all black anodized steel makes for a good looking traditional wet shaving safety razor.  A quality razor gives a closer shave than disposables which in turn reduces ingrown hairs and irritation.</span><br><br><span>We have several styles and colors to choose from and all come in black foam lined gift box.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Safety Razor</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/2841339625572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/2838340894820</id>
+    <published>2019-02-18T16:36:05-05:00</published>
+    <updated>2019-02-18T16:36:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/black-stainless-steel-double-edge-safety-razor"/>
+    <title>Black + Stainless Steel Double Edge Safety Razor</title>
+    <s:type>Safety Razor</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/Razor_Safety.jpg?v=1550526004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Safety Razor<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>We here at Topher's are not condoning shaving and thought we should stock these razors for those that want to do their own touch ups between visits to their barbers.</span><br><br><span>The classic closed comb head is combined with a weighted handle for a comfortable feel in your hands as you achieve a super close wet shave.  The knurled handle offers grip and the chrome plated steel makes for a good looking traditional wet shaving safety razor.  A quality razor gives a closer shave than disposables which in turn reduces ingrown hairs and irritation.</span><br><br><span>We have several styles and colors to choose from and all come in black foam lined gift box.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Safety Razor</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/2838340894820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/2838138617956</id>
+    <published>2019-02-18T16:08:09-05:00</published>
+    <updated>2019-02-18T16:08:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/beaver-butter-ladies-intimate-cream-after-shave"/>
+    <title>BEAVER BUTTER - LADIES INTIMATE CREAM AFTER SHAVE</title>
+    <s:type>Aftershave</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210113_123847.jpg?v=1610836699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Aftershave<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All ladies know that razor burn and irritation is a thing after you shave or wax tender areas. This will keep your newly bare skin and any hair that may remain soft and moisturized. Our blend of Shea butter and skin loving Hemp, Hazelnut and Avocado oils for moisturizing and Babassu oil for it's cooling effect will leave you with a very soft and happy Beaver.</p>
+<p>Quality natural ingredients paired with our essential oil blend all have their place in the end product, there's no added fragrance or skin drying chemicals. The Shea butter and carrier oils are present for skin and hair conditioning and repair, as well as rejuvenating skins elasticity and moisturizing freshly shaven or waxed skin. The essential oil blend helps to avoid unsightly skin bumps and ingrown hairs as well as act as an antiseptic for any small nicks or abrasions due to hair removal.</p>
+<p>Sensitive &amp; intimate areas are tender and should be treated as such.</p>
+<p>1oz/30g in size.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftershave</s:tag>
+    <s:tag>Shave Puck</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/2838138617956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/2838131540068</id>
+    <published>2019-02-18T16:08:09-05:00</published>
+    <updated>2019-02-18T16:08:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/manscape-butter-mens-everywhere-cream-after-shave"/>
+    <title>Manscape Butter - Everywhere Cream After Shave for Men</title>
+    <s:type>Aftershave</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20180627_205248.jpg?v=1550524395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Aftershave<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Men are trimming and shaving many more places then just their faces and heads anymore. Why suffer from skin irritation and ingrown hairs when the solution is just a light coating of Manscape Butter on your freshly 'scaped skin. Feel your best while you look your best. Great for scalp, faces and any where else you are bold enough to take a razor to. Works for waxing, sugaring, plucking or whatever form of hair removal you choose.</p>
+<p>Quality natural ingredients paired with our essential oil blend all have their place in the end product, there's no added fragrance or skin drying chemicals. The Shea butter and carrier oils are present for skin and hair conditioning and repair, as well as rejuvenating skins elasticity and moisturizing freshly shaven or waxed skin. The essential oil blend helps to avoid unsightly skin bumps and ingrown hairs as well as act as an antiseptic for any small nicks or abrasions due to hair removal.</p>
+<p>Sensitive &amp; intimate areas are tender and should be treated as such.</p>
+<p>1oz/30g in size. A little goes a long way.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftershave</s:tag>
+    <s:tag>Shave Puck</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/2838131540068</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/2837959442532</id>
+    <published>2019-02-18T15:27:19-05:00</published>
+    <updated>2019-02-18T15:27:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/shave-puck-barbershop"/>
+    <title>Barbershop Shave Puck</title>
+    <s:type>Shave Puck</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210307_110221.jpg?v=1615133771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shave Puck<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We aren't that big on the whole shaving thing around here but we understand sometimes it has to be done and here at Topher's we figured if you are going to shave, you may as we get the best shave you can get.</p>
+<p>A 4 ounce puck of chemical free, natural shave soap with thick long lasting lather and great razor glide. Lightly scented, Bergamot and Basil are complemented by earthy notes of Oakmoss and White Patchouli to awaken your senses. Let us help you make your next wet shave the best it can be.</p>
+<p>Made with the finest oils and butters, this is a true old school shaving puck, not just a round bar of soap with added clay for slip. We've taken an old recipe and refined it. With lard, shea butter and coconut oil at its base we've added extra castor oil and vegetable glycerin for slip and hemp seed oil for skin conditioning. Our shave puck isn't drying like most commercial shaving creams on the market today and the stable lather offers more slip and skin conditioning then it's mass produced counterparts.</p>
+<p>Best if paired with Topher's Manscape Butter as a cream aftershave.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shave Puck</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/2837959442532</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+</feed>

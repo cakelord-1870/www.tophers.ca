@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tophers.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tophers.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tophers.ca/collections/brushes-and-combs.atom"/>
+  <title>Topher&apos;s Beard + Soap Co.</title>
+  <updated>2020-05-28T12:40:22-04:00</updated>
+  <author>
+    <name>Topher&apos;s Beard + Soap Co.</name>
+  </author>
+  <entry>
+    <id>https://www.tophers.ca/products/4762316603531</id>
+    <published>2020-05-28T12:40:22-04:00</published>
+    <updated>2020-05-28T12:40:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/e38bd83af578077b65a31424bd24d085.png?v=1586310966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://www.tophers.ca/products/gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them?
+Give them the gift of choice with a Topher's Beard + Soap Co. gift card.</p>
+<p>Gift cards are delivered by email and contain instructions to redeem them at checkout.
+Our gift cards have no additional processing fees.</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftershave</s:tag>
+    <s:tag>Bar Soap</s:tag>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Bath Bomb Kit</s:tag>
+    <s:tag>Beard Balm</s:tag>
+    <s:tag>Beard Butter</s:tag>
+    <s:tag>Beard Care Samples</s:tag>
+    <s:tag>Beard Oil</s:tag>
+    <s:tag>Body Butter</s:tag>
+    <s:tag>body spray</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Brush</s:tag>
+    <s:tag>Chill Pill</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Comb</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Conditioner Bar</s:tag>
+    <s:tag>Dead Sea</s:tag>
+    <s:tag>Donut</s:tag>
+    <s:tag>Giftbox</s:tag>
+    <s:tag>Kits</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Muscle Butter</s:tag>
+    <s:tag>Oil Based</s:tag>
+    <s:tag>Oil pomade</s:tag>
+    <s:tag>Pomade</s:tag>
+    <s:tag>razor blade double</s:tag>
+    <s:tag>razor blade single</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>Safety Razor</s:tag>
+    <s:tag>Sample Oil</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shampoo Bar</s:tag>
+    <s:tag>Shave Puck</s:tag>
+    <s:tag>Shavettes</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:tag>Stache Wax</s:tag>
+    <s:tag>Sugar Scrub</s:tag>
+    <s:tag>swag</s:tag>
+    <s:tag>Tattoo Butter</s:tag>
+    <s:tag>Water Based</s:tag>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$10.00 CAD</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$25.00 CAD</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$50.00 CAD</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$100.00 CAD</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4781428375691</id>
+    <published>2020-04-12T12:36:15-04:00</published>
+    <updated>2020-04-12T12:36:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/wooden-combs"/>
+    <title>Wooden Combs</title>
+    <s:type>Beard Brush</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210128_145756.jpg?v=1611888146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Beard Brush<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Our wooden combs are laser cut and branded with our logo.</p>
+<p>Great for clearing knots and tangles and looking debonair while combing your face fur.</p>
+<p>Available in Oak or Walnut.</p>
+<p>Once a month its a good idea to gently wash your comb with hand soap and leave to air dry to keep it smelling fresh and working its best.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard Balm</s:tag>
+    <s:tag>Beard Oil</s:tag>
+    <s:tag>Brush</s:tag>
+    <s:tag>Comb</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4781428375691</id>
+      <title>Cherry</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4781428375691</id>
+      <title>Oak</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4781428375691</id>
+      <title>Walnut</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4369464426635</id>
+    <published>2019-11-23T19:23:55-05:00</published>
+    <updated>2019-11-23T19:23:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/boar-hair-brush"/>
+    <title>Boar Hair Brush</title>
+    <s:type>Beard Brush</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20191123-191917.jpg?v=1574555038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Beard Brush<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Boar hair brushes are the best for helping to spread product through your beard while stimulating the hair follicles and removing dead skin.</p>
+<p>Our natural bristle brush is constructed with care and branded with our info.</p>
+<p>Once a month its a good idea to gently wash your brush with hand soap and leave to air dry to keep it smelling fresh and working its best.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard Balm</s:tag>
+    <s:tag>Beard Oil</s:tag>
+    <s:tag>Brush</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4369464426635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+</feed>

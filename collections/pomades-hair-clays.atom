@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tophers.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tophers.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tophers.ca/collections/pomades-hair-clays.atom"/>
+  <title>Topher&apos;s Beard + Soap Co.</title>
+  <updated>2020-05-28T12:40:22-04:00</updated>
+  <author>
+    <name>Topher&apos;s Beard + Soap Co.</name>
+  </author>
+  <entry>
+    <id>https://www.tophers.ca/products/4762316603531</id>
+    <published>2020-05-28T12:40:22-04:00</published>
+    <updated>2020-05-28T12:40:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/e38bd83af578077b65a31424bd24d085.png?v=1586310966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://www.tophers.ca/products/gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them?
+Give them the gift of choice with a Topher's Beard + Soap Co. gift card.</p>
+<p>Gift cards are delivered by email and contain instructions to redeem them at checkout.
+Our gift cards have no additional processing fees.</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftershave</s:tag>
+    <s:tag>Bar Soap</s:tag>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Bath Bomb Kit</s:tag>
+    <s:tag>Beard Balm</s:tag>
+    <s:tag>Beard Butter</s:tag>
+    <s:tag>Beard Care Samples</s:tag>
+    <s:tag>Beard Oil</s:tag>
+    <s:tag>Body Butter</s:tag>
+    <s:tag>body spray</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Brush</s:tag>
+    <s:tag>Chill Pill</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Comb</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Conditioner Bar</s:tag>
+    <s:tag>Dead Sea</s:tag>
+    <s:tag>Donut</s:tag>
+    <s:tag>Giftbox</s:tag>
+    <s:tag>Kits</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Muscle Butter</s:tag>
+    <s:tag>Oil Based</s:tag>
+    <s:tag>Oil pomade</s:tag>
+    <s:tag>Pomade</s:tag>
+    <s:tag>razor blade double</s:tag>
+    <s:tag>razor blade single</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>Safety Razor</s:tag>
+    <s:tag>Sample Oil</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shampoo Bar</s:tag>
+    <s:tag>Shave Puck</s:tag>
+    <s:tag>Shavettes</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:tag>Stache Wax</s:tag>
+    <s:tag>Sugar Scrub</s:tag>
+    <s:tag>swag</s:tag>
+    <s:tag>Tattoo Butter</s:tag>
+    <s:tag>Water Based</s:tag>
+    <s:tag>Wax Melt</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$10.00 CAD</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$25.00 CAD</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$50.00 CAD</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4762316603531</id>
+      <title>$100.00 CAD</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/2908607905892</id>
+    <published>2019-02-25T19:33:35-05:00</published>
+    <updated>2019-02-25T19:33:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/styling-texture-clay-matte"/>
+    <title>Styling Texture Clay - Matte</title>
+    <s:type>Pomade</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/coming-soon-sale-poster-vector-1666502_baa433fd-e497-496a-b25f-af4c40cf329d.jpg?v=1551141784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Pomade<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Coming Soon.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pomade</s:tag>
+    <s:tag>Water Based</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/2908607905892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/2908602302564</id>
+    <published>2019-02-25T19:33:35-05:00</published>
+    <updated>2019-02-25T19:33:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/water-based-pomade-matte"/>
+    <title>Water Based Pomade - Matte</title>
+    <s:type>Pomade</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20190315_230328.jpg?v=1552705727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Pomade<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Water based pomades are the modern day versions of old school oil based pomades.  With our water based pomade, changing your style throughout the day is as easy as wetting your hair slightly.  Once set you'll have a flexible medium hold that stays soft and manageable all day long.  This pomade has a matte finish.</p>
+<p>The other great thing about these pomades are that they wash out easily in one or two washes unlike their oil based counterparts.  </p>
+<ul>
+<li>Medium to Heavy hold that lasts</li>
+<li>Soft and easy to apply</li>
+<li>No buildup and easy to wash out</li>
+<li>Matte finish</li>
+</ul>
+<p>Available in 2 scents:</p>
+<p>Black Salt + Mountain Air</p>
+<p>Sweet Tobacco.</p>
+<p>Large 4 ounce low profile jar.</p>
+<p><em>Ingredients: Aqua, Behentrimonium Methosulfate (and) Cetearyl Alcohol, Glyceryl Stearate (and) Cetearyl Alcohol (and) Sodium Stearoyl Lactylate, Kaolin, Polysorbate 20, Cera Microcristallina, Beeswax, PEG-40 Hydrogenated Castor Oil, Fragrance, Stearic Acid, Persea Gratissima (Avocado) Oil, Lanolin, Propylene Glycol, PEG-7 Glyceryl Cocoate, Dimethicone, Phenoxyethanol.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pomade</s:tag>
+    <s:tag>Water Based</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/2908602302564</id>
+      <title>Black Salt + Mountain Air</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/2908602302564</id>
+      <title>Sweet Tobacco</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/2908588802148</id>
+    <published>2019-02-25T19:33:35-05:00</published>
+    <updated>2019-02-25T19:33:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/oil-based-pomade-high-shine"/>
+    <title>Water Based Pomade - Shine</title>
+    <s:type>Pomade</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20190315_230413.jpg?v=1552705769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Pomade<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Water based pomades are the modern day versions of old school oil based pomades.  With our water based pomade, changing your style throughout the day is as easy as wetting your hair slightly.  Once set you'll have a flexible medium hold that stays soft and manageable all day long.  This pomade has a high shine finish.</p>
+<p>The other great thing about these pomades are that they wash out easily in one or two washes unlike their oil based counterparts.  </p>
+<ul>
+<li>Medium to Heavy hold that lasts</li>
+<li>Soft and easy to apply</li>
+<li>No buildup and easy to wash out</li>
+<li>High shine finish</li>
+</ul>
+<p>Fresh scent of black salt and mountain air. Large 4 ounce low profile jar.</p>
+<p><em>Ingredients: Aqua, Behentrimonium Methosulfate (and) Cetearyl Alcohol, Glyceryl Stearate (and) Cetearyl Alcohol (and) Sodium Stearoyl Lactylate, Polysorbate 20, Cera Microcristallina, Beeswax, PEG-40 Hydrogenated Castor Oil, Fragrance, Stearic Acid, Persea Gratissima (Avocado) Oil, Lanolin, Propylene Glycol, PEG-7 Glyceryl Cocoate, Dimethicone, Phenoxyethanol.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pomade</s:tag>
+    <s:tag>Water Based</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/2908588802148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/2908574023780</id>
+    <published>2019-02-25T19:33:35-05:00</published>
+    <updated>2019-02-25T19:33:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/copy-of-oil-based-pomade-med-hold-high-shine"/>
+    <title>Oil Based Pomade - Matte</title>
+    <s:type>Pomade</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20190315_230453.jpg?v=1552705638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Pomade<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oil based pomades have been around forever.  Old school pomades is why the term "Greaser" was coined.  When hair is styled using oil based pomades it never really dries and is easily reworked throughout the day.  Our pomade contains both petrolatum and lanolin which are both great for moisturizing both hair and scalp.  If used correctly you won't have greasy buildup.</p>
+<p>Our pomade is a heavy hold without weighing your hair down.  This pomade has a matte finish.</p>
+<ul>
+<li>Heavy hold</li>
+<li>Soft and easy to apply</li>
+<li>Restyleable</li>
+<li>Matte finish</li>
+</ul>
+<p>Classic scent of Mahogany Woods and Vanilla.</p>
+<p><em>Ingredients: Petrolatum, Cera Microcristallina, Beeswax, Ricinus Communis (Castor) Seed Oil, Hydrogenated Prunus Armeniaca (Apricot) Kernel Oil, Kaolin, Lanolin, Fragrance.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Oil BAsed</s:tag>
+    <s:tag>Pomade</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/2908574023780</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/2908572385380</id>
+    <published>2019-02-25T19:33:35-05:00</published>
+    <updated>2019-02-25T19:33:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/oil-based-pomade-med-hold-high-shine"/>
+    <title>Oil Based Pomade - Shine</title>
+    <s:type>Pomade</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20190315_230527.jpg?v=1552705685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Pomade<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oil based pomades have been around forever.  Old school pomades is why the term "Greaser" was coined.  When hair<span> </span>is styled using oil based pomades it never really dries and is easily reworked throughout the day.  Our pomade contains both petrolatum and lanolin which are both<span> </span>great<span> </span>for moisturizing both hair and scalp.  If used correctly you won't have greasy buildup.</p>
+<p>Our pomade is a heavy hold without weighing your hair down.  This pomade has a classic high shine finish.</p>
+<ul>
+<li>Heavy hold</li>
+<li>Soft and easy to apply</li>
+<li>Reworkable</li>
+<li>Classic high shine finish</li>
+</ul>
+<p>Classic scent of Mahogany Woods and Vanilla.</p>
+<p><em>Ingredients: Petrolatum, Cera Microcristallina, Beeswax, Ricinus Communis (Castor) Seed Oil, Hydrogenated Prunus Armeniaca (Apricot) Kernel Oil, Lanolin, Fragrance.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Oil Based</s:tag>
+    <s:tag>Oil pomade</s:tag>
+    <s:tag>Pomade</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/2908572385380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+</feed>

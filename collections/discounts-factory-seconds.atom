@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tophers.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tophers.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tophers.ca/collections/discounts-factory-seconds.atom"/>
+  <title>Topher&apos;s Beard + Soap Co.</title>
+  <updated>2020-08-26T14:13:28-04:00</updated>
+  <author>
+    <name>Topher&apos;s Beard + Soap Co.</name>
+  </author>
+  <entry>
+    <id>https://www.tophers.ca/products/5605864472740</id>
+    <published>2020-08-26T14:13:28-04:00</published>
+    <updated>2020-08-26T14:13:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/discount-bath-bombs"/>
+    <title>Discount Bath Bombs</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/water-street-musee-bath-bombs-c.jpg?v=1598465779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Here you will find discontinued scents, store returns and old packaging.</p>
+<p>Products will change from week to week so check back often.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>discount</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5605864472740</id>
+      <title>Peppermint Cream</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5513627861156</id>
+    <published>2020-08-02T20:56:09-04:00</published>
+    <updated>2020-08-02T20:56:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/discount-tahitian-butter"/>
+    <title>Discount Tahitian Butter</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/body-butter-application.png?v=1596416170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Old packaging or discontinued scents.</p>
+<p>Get a great deal at half of retail.</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>discount</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513627861156</id>
+      <title>Pumpkin Spice</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513627861156</id>
+      <title>Eucalyptus Mint</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5513616261284</id>
+    <published>2020-08-02T20:50:01-04:00</published>
+    <updated>2020-08-02T20:50:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/discount-sugar-scrubs"/>
+    <title>Discount Sugar Scrubs</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/Kylie-skin-body-scrub-2_5de97b5c-a374-45f2-add4-5f7a98e70cad.jpg?v=1596415802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Here you will find older stock, color variation or older packaging.  The products themselves are perfectly fine to be used.</p>
+<p>All the scrubs available are new in packaging.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>discount</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513616261284</id>
+      <title>Pumpkin Spice</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513616261284</id>
+      <title>24k Gold Charcoal and Bamboo</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513616261284</id>
+      <title>Market Peach</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513616261284</id>
+      <title>Toasted Marshmallow</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513616261284</id>
+      <title>Vanilla Sugar Cookie</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513616261284</id>
+      <title>Espresso</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513616261284</id>
+      <title>Pink Sugar</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5513583788196</id>
+    <published>2020-08-02T20:26:33-04:00</published>
+    <updated>2020-08-02T20:26:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/discount-beard-care"/>
+    <title>Discount Beard Care</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/Beard-oil.jpg?v=1596414870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.50 - 11.00
+            <a href="https://www.tophers.ca/products/discount-beard-care">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Here you will find discontinued scents, store returns and old packaging.</p>
+<p>Products will change from week to week so check back often.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>discount</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513583788196</id>
+      <title>Sandalwood Cedar Beard Oil</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513583788196</id>
+      <title>Smugglers Cove Beard Oil</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513583788196</id>
+      <title>Whiskey Woodsmoke Stache Wax</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5513564782756</id>
+    <published>2020-08-02T20:13:31-04:00</published>
+    <updated>2020-08-02T20:13:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/discount-exfoliating-body-wash"/>
+    <title>Discount Exfoliating Body Wash</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/847-02782849en_Masterfile.jpg?v=1596413611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>You wont find products in here too often as it's not something that </span><span>usually comes back.  </span><span>What you may find are bottles from batches that we have miscolored or older stock we are trying to blow out.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>discount</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513564782756</id>
+      <title>Cool as a Cucumber</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513564782756</id>
+      <title>Sweet Tangerine</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5513550561444</id>
+    <published>2020-08-02T20:05:16-04:00</published>
+    <updated>2020-08-02T20:05:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/hair-beard-shampoo"/>
+    <title>Discount Hair + Beard Shampoo</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/beard-beard-shampoo-wash-e1492602081348-1024x530.jpg?v=1596413117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">You wont find products in here too often as it's not something that usually comes back.  What you may find are bottles from batches that we have miscolored or older stock we are trying to blow out.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>discount</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513550561444</id>
+      <title>Drunken Pirate</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513550561444</id>
+      <title>Elixir No. 4</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5513541058724</id>
+    <published>2020-08-02T19:50:34-04:00</published>
+    <updated>2020-08-02T19:50:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/discount-soap"/>
+    <title>Discount Soap</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/Handmade_soap_cropped_and_simplified.jpg?v=1604096517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nothing but cosmetic issues with these bars.  Soap actually gets harder with age.</p>
+<p>These soap bars have been discontinued, have discolored slightly or have been removed from a stores shelves.</p>
+<p>It's a great deal for you as you can buy them here for half price.  </p>
+<p>Check back periodically as the scents and quantities will change from week to week.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>discount</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513541058724</id>
+      <title>Vanilla Bean</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513541058724</id>
+      <title>Patchouli + Powder</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5513541058724</id>
+      <title>Lemongrass Green Tea</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

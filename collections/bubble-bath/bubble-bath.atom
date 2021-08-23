@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tophers.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tophers.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tophers.ca/collections/bubble-bath.atom"/>
+  <title>Topher&apos;s Beard + Soap Co.</title>
+  <updated>2021-04-17T15:55:59-04:00</updated>
+  <author>
+    <name>Topher&apos;s Beard + Soap Co.</name>
+  </author>
+  <entry>
+    <id>https://www.tophers.ca/products/6655855820964</id>
+    <published>2021-04-17T15:55:59-04:00</published>
+    <updated>2021-04-17T15:55:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/champagne-kiss-bubble-bath"/>
+    <title>Champagne Kiss Bubble Bath</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210414_184912.jpg?v=1618689442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sparkling champagne, and tart apples with a hint of wild berries + pear.  Bring a touch of class to your bath.  Little black dress not necessary.</span><br></p>
+<p>The large 13 oz bottle contains no sodium lauryl sulfates, DEA, parabens or harsh detergents. Your skin will feel soft when conditioned with olive esters, vegetable glycerin and chamomile.<br></p>
+<p><span>Add a cap full to running bath water for mountains and mountains of long lasting bubbles.</span></p>
+<p>Ingredients: Deionized Water, Decyl Glucoside, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, PEG-7 Olivate (Olive Esters), Sodium Chloride, Chamomilla Recutita (Matricaria) Flower Extract (Chamomile), Glycerin, Fragrance, Phenoxyethanol and Caprylyl Glycol (Optiphen®), Soap Colorant.</p>
+<p><span>Test on skin before use, may contain allergens.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble bath</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6655855820964</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6655855394980</id>
+    <published>2021-04-17T15:54:33-04:00</published>
+    <updated>2021-04-17T15:54:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/orange-vanilla-bubble-bath"/>
+    <title>Orange Vanilla Bubble Bath</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/OrangeVanillaBB.jpg?v=1618689341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Vibrant Orange Citrus blended with French Vanilla Ice Cream gets us this summer favorite of Orange Vanilla.  Just like the Orange Creamsicle popsicles you may have had as a child.</span></p>
+<p><span>The large 13 oz bottle contains no sodium lauryl sulfates, DEA, parabens or harsh detergents. Your skin will feel soft when conditioned with olive esters, vegetable glycerin and chamomile.</span></p>
+<p><span>Add a cap full to running bath water for mountains and mountains of long lasting bubbles.</span></p>
+<p>Ingredients: Deionized Water, Decyl Glucoside, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, PEG-7 Olivate (Olive Esters), Sodium Chloride, Chamomilla Recutita (Matricaria) Flower Extract (Chamomile), Glycerin, Fragrance, Phenoxyethanol and Caprylyl Glycol (Optiphen®), Soap Colorant.</p>
+<p><span>Test on skin before use, may contain allergens.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble bath</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6655855394980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6655854805156</id>
+    <published>2021-04-17T15:53:53-04:00</published>
+    <updated>2021-04-17T15:53:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/copy-of-caribbean-crush-bubble-bath"/>
+    <title>Lavender Bubble Bath</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/LavenderBB.jpg?v=1618689232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Lavender has been used to aid sleep for centuries.  Try it yourself + see why it's the ultimate in bath time relaxation.</span></p>
+<p><span>The large 13 oz bottle contains no sodium lauryl sulfates, DEA, parabens or harsh detergents. Your skin will feel soft when conditioned with olive esters, vegetable glycerin and chamomile.</span></p>
+<p><span>Add a cap full to running bath water for mountains and mountains of long lasting bubbles.</span></p>
+<p>Ingredients: Deionized Water, Decyl Glucoside, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, PEG-7 Olivate (Olive Esters), Sodium Chloride, Chamomilla Recutita (Matricaria) Flower Extract (Chamomile), Glycerin, Fragrance, Phenoxyethanol and Caprylyl Glycol (Optiphen®), Soap Colorant.</p>
+<p><span>Test on skin before use, may contain allergens.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble bath</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6655854805156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6655852085412</id>
+    <published>2021-04-17T15:45:43-04:00</published>
+    <updated>2021-04-17T15:45:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/unicorn-bubble-bath"/>
+    <title>Unicorn Bubble Bath</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/UnicornBB.jpg?v=1618688769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Smells like a handful of 25 cent gum ball machine candy.<br></p>
+<p><span>The large 13 oz bottle contains no sodium lauryl sulfates, DEA, parabens or harsh detergents. Your skin will feel soft when conditioned with olive esters, vegetable glycerin and chamomile.</span></p>
+<p><span>Add to running bath water for mountains and mountains of long lasting bubbles.</span></p>
+<p>Ingredients: Deionized Water, Decyl Glucoside, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, PEG-7 Olivate (Olive Esters), Sodium Chloride, Chamomilla Recutita (Matricaria) Flower Extract (Chamomile), Glycerin, Fragrance, Phenoxyethanol and Caprylyl Glycol (Optiphen®), Soap Colorant.</p>
+<p><span>Test on skin before use, may contain allergens.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble bath</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6655852085412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5481112830116</id>
+    <published>2020-07-24T14:23:38-04:00</published>
+    <updated>2020-07-24T14:23:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/caribbean-crush-bubble-bath"/>
+    <title>Caribbean Crush Bubble Bath</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210414_184756.jpg?v=1618688371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Caribbean Crush is one of our top selling scents across all products we have used it in, the perfect blend of ripe bananas, dark chocolate and mixed tropical fruits.  <br></p>
+<p><span>The large 13 oz bottle contains no sodium lauryl sulfates, DEA, parabens or harsh detergents. Your skin will feel soft when conditioned with olive esters, vegetable glycerin and chamomile.</span></p>
+<p><span>Add a cap full to running bath water for mountains and mountains of long lasting bubbles.</span></p>
+<p>Ingredients: Deionized Water, Decyl Glucoside, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, PEG-7 Olivate (Olive Esters), Sodium Chloride, Chamomilla Recutita (Matricaria) Flower Extract (Chamomile), Glycerin, Fragrance, Phenoxyethanol and Caprylyl Glycol (Optiphen®), Soap Colorant.</p>
+<p><span>Test on skin before use, may contain allergens.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble bath</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5481112830116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5481111355556</id>
+    <published>2020-07-24T14:22:09-04:00</published>
+    <updated>2020-07-24T14:22:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/green-apple-bubble-bath"/>
+    <title>Green Apple Bubble Bath</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210414_184709.jpg?v=1618688552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green apple smells clean and fresh, like you just cut into a granny smith apple.  <br></p>
+<p><span>The large 13 oz bottle contains no sodium lauryl sulfates, DEA, parabens or harsh detergents. Your skin will feel soft when conditioned with olive esters, vegetable glycerin and chamomile.</span></p>
+<p><span>Add to running bath water for mountains and mountains of long lasting bubbles.</span></p>
+<p>Ingredients: Deionized Water, Decyl Glucoside, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, PEG-7 Olivate (Olive Esters), Sodium Chloride, Chamomilla Recutita (Matricaria) Flower Extract (Chamomile), Glycerin, Fragrance, Phenoxyethanol and Caprylyl Glycol (Optiphen®), Soap Colorant.</p>
+<p><span>Test on skin before use, may contain allergens.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble bath</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5481111355556</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/5481110470820</id>
+    <published>2020-07-24T14:20:53-04:00</published>
+    <updated>2020-07-24T14:20:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/sex-bomb-bubble-bath"/>
+    <title>Sex Bomb Bubble Bath</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210414_184814.jpg?v=1618688609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sex Bomb is an intoxicating blend of yling ylang, jasmine and clary sage.  All of the aforementioned scents are known to have strong aphrodisiac powers.  So, sink into the tub, put on some Barry Manilow and turn into the sex bomb you are.</p>
+<p><span>The large 13 oz bottle contains no sodium lauryl sulfates, DEA, parabens or harsh detergents. Your skin will feel soft when conditioned with olive esters, vegetable glycerin and chamomile.</span></p>
+<p><span>Add to running bath water for mountains and mountains of long lasting bubbles.</span></p>
+<p>Ingredients: Deionized Water, Decyl Glucoside, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, PEG-7 Olivate (Olive Esters), Sodium Chloride, Chamomilla Recutita (Matricaria) Flower Extract (Chamomile), Glycerin, Fragrance, Phenoxyethanol and Caprylyl Glycol (Optiphen®), Soap Colorant.</p>
+<p><span>Test on skin before use, may contain allergens.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bubble bath</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/5481110470820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+</feed>

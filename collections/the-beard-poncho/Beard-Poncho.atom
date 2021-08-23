@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tophers.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tophers.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tophers.ca/collections/the-beard-poncho.atom"/>
+  <title>Topher&apos;s Beard + Soap Co.</title>
+  <updated>2021-02-07T14:38:38-05:00</updated>
+  <author>
+    <name>Topher&apos;s Beard + Soap Co.</name>
+  </author>
+  <entry>
+    <id>https://www.tophers.ca/products/6027160879268</id>
+    <published>2021-02-07T14:38:38-05:00</published>
+    <updated>2021-02-07T14:38:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/the-beard-poncho-covid-19-masks-grey-arrows"/>
+    <title>The Beard Poncho - Covid-19 Masks - Grey Arrows</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210207_134713.jpg?v=1612726820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It looks like masks, social distancing and precautionary safety measures are going to be around for a while as the world fights Covid-19.  Most masks available on the market today leave a pretty bad crease in the beard once you take it off and just aren't that comfortable to wear.</p>
+<p>We partnered up with a local mask maker and after a few prototypes and some trial and error, the Beard Poncho was born.  Reversible, 100% cotton, with adjustable ear straps and wire in the nose area make this a great fitting, comfortable alternative to the other masks available while still keeping you and others safe, and the best part, no beard crease.</p>
+<p>Available in a number of styles, we are confident you and your beard will love the Beard Poncho.  Scroll through the photos to see the different styles.</p>
+<p><span>If this is the only item on your order, shipping is only $5 within Canada and the USA.</span></p>
+<p>100% Cotton.  Hand wash in cold water.  Hang to dry.</p>
+<p><span>Beard Poncho by the nature of the product and the fact that we are in the midst of the Covid-19 Pandemic are not refundable or returnable.  We apologize for any inconvenience this may cause.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard Poncho</s:tag>
+    <s:tag>swag</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6027160879268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6008088756388</id>
+    <published>2021-01-27T19:27:44-05:00</published>
+    <updated>2021-01-27T19:27:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/the-beard-poncho-covid-19-masks-moustaches"/>
+    <title>The Beard Poncho - Covid-19 Masks - Moustaches</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210119_141120_31ff6d6f-149f-4e00-9d30-c71e4d38c6e8.jpg?v=1611793736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It looks like masks, social distancing and precautionary safety measures are going to be around for a while as the world fights Covid-19.  Most masks available on the market today leave a pretty bad crease in the beard once you take it off and just aren't that comfortable to wear.</p>
+<p>We partnered up with a local mask maker and after a few prototypes and some trial and error, the Beard Poncho was born.  Reversible, 100% cotton, with adjustable ear straps and wire in the nose area make this a great fitting, comfortable alternative to the other masks available while still keeping you and others safe, and the best part, no beard crease.</p>
+<p>Available in a number of styles, we are confident you and your beard will love the Beard Poncho.  Scroll through the photos to see the different styles.</p>
+<p><span>If this is the only item on your order, shipping is only $5 within Canada and the USA.</span></p>
+<p>100% Cotton.  Hand wash in cold water.  Hang to dry.</p>
+<p><span>Beard Poncho by the nature of the product and the fact that we are in the midst of the Covid-19 Pandemic are not refundable or returnable.  We apologize for any inconvenience this may cause.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard Poncho</s:tag>
+    <s:tag>swag</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6008088756388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6008085414052</id>
+    <published>2021-01-27T19:26:17-05:00</published>
+    <updated>2021-01-27T19:26:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/copy-of-the-beard-poncho-covid-19-masks-black-and-white-plaid"/>
+    <title>The Beard Poncho - Covid-19 Masks - Star Wars</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210119_141137_4231c01f-3ec2-4d75-9a9e-ffde3c71ea64.jpg?v=1611793641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It looks like masks, social distancing and precautionary safety measures are going to be around for a while as the world fights Covid-19.  Most masks available on the market today leave a pretty bad crease in the beard once you take it off and just aren't that comfortable to wear.</p>
+<p>We partnered up with a local mask maker and after a few prototypes and some trial and error, the Beard Poncho was born.  Reversible, 100% cotton, with adjustable ear straps and wire in the nose area make this a great fitting, comfortable alternative to the other masks available while still keeping you and others safe, and the best part, no beard crease.</p>
+<p>Available in a number of styles, we are confident you and your beard will love the Beard Poncho.  Scroll through the photos to see the different styles.</p>
+<p><span>If this is the only item on your order, shipping is only $5 within Canada and the USA.</span></p>
+<p>100% Cotton.  Hand wash in cold water.  Hang to dry.</p>
+<p><span>Beard Poncho by the nature of the product and the fact that we are in the midst of the Covid-19 Pandemic are not refundable or returnable.  We apologize for any inconvenience this may cause.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard Poncho</s:tag>
+    <s:tag>swag</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6008085414052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6008082628772</id>
+    <published>2021-01-27T19:25:14-05:00</published>
+    <updated>2021-01-27T19:25:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/the-beard-poncho-covid-19-masks-buffalo-plaid"/>
+    <title>The Beard Poncho - Covid-19 Masks - Buffalo Plaid</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210127_134502_d9e30560-8ac7-4e74-aa7d-59e906b50d6f.jpg?v=1611793539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It looks like masks, social distancing and precautionary safety measures are going to be around for a while as the world fights Covid-19.  Most masks available on the market today leave a pretty bad crease in the beard once you take it off and just aren't that comfortable to wear.</p>
+<p>We partnered up with a local mask maker and after a few prototypes and some trial and error, the Beard Poncho was born.  Reversible, 100% cotton, with adjustable ear straps and wire in the nose area make this a great fitting, comfortable alternative to the other masks available while still keeping you and others safe, and the best part, no beard crease.</p>
+<p>Available in a number of styles, we are confident you and your beard will love the Beard Poncho.  Scroll through the photos to see the different styles.</p>
+<p><span>If this is the only item on your order, shipping is only $5 within Canada and the USA.</span></p>
+<p>100% Cotton.  Hand wash in cold water.  Hang to dry.</p>
+<p><span>Beard Poncho by the nature of the product and the fact that we are in the midst of the Covid-19 Pandemic are not refundable or returnable.  We apologize for any inconvenience this may cause.</span></p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard Poncho</s:tag>
+    <s:tag>swag</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6008082628772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6008079220900</id>
+    <published>2021-01-27T19:23:41-05:00</published>
+    <updated>2021-01-27T19:23:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/the-beard-poncho-covid-19-masks-the-patriot"/>
+    <title>The Beard Poncho - Covid-19 Masks - The Patriot</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210119_141103_90934df1-addb-460c-90fd-52a03b63e9bc.jpg?v=1611793492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It looks like masks, social distancing and precautionary safety measures are going to be around for a while as the world fights Covid-19.  Most masks available on the market today leave a pretty bad crease in the beard once you take it off and just aren't that comfortable to wear.</p>
+<p>We partnered up with a local mask maker and after a few prototypes and some trial and error, the Beard Poncho was born.  Reversible, 100% cotton, with adjustable ear straps and wire in the nose area make this a great fitting, comfortable alternative to the other masks available while still keeping you and others safe, and the best part, no beard crease.</p>
+<p>Available in a number of styles, we are confident you and your beard will love the Beard Poncho.  Scroll through the photos to see the different styles.</p>
+<p><span>If this is the only item on your order, shipping is only $5 within Canada and the USA.</span></p>
+<p>100% Cotton.  Hand wash in cold water.  Hang to dry.</p>
+<p><span>Beard Poncho by the nature of the product and the fact that we are in the midst of the Covid-19 Pandemic are not refundable or returnable.  We apologize for any inconvenience this may cause.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard Poncho</s:tag>
+    <s:tag>swag</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6008079220900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6008074338468</id>
+    <published>2021-01-27T19:21:10-05:00</published>
+    <updated>2021-01-27T19:21:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/copy-of-the-beard-poncho-covid-19-masks-camo-green"/>
+    <title>The Beard Poncho - Covid-19 Masks - Black and White Plaid</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210119_141152_516d77a0-bd23-4578-b6b2-e090c497086a.jpg?v=1611793367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It looks like masks, social distancing and precautionary safety measures are going to be around for a while as the world fights Covid-19.  Most masks available on the market today leave a pretty bad crease in the beard once you take it off and just aren't that comfortable to wear.</p>
+<p>We partnered up with a local mask maker and after a few prototypes and some trial and error, the Beard Poncho was born.  Reversible, 100% cotton, with adjustable ear straps and wire in the nose area make this a great fitting, comfortable alternative to the other masks available while still keeping you and others safe, and the best part, no beard crease.</p>
+<p>Available in a number of styles, we are confident you and your beard will love the Beard Poncho.  Scroll through the photos to see the different styles.</p>
+<p><span>If this is the only item on your order, shipping is only $5 within Canada and the USA.</span></p>
+<p>100% Cotton.  Hand wash in cold water.  Hang to dry.</p>
+<p>Beard Poncho by the nature of the product and the fact that we are in the midst of the Covid-19 Pandemic are not refundable or returnable.  We apologize for any inconvenience this may cause.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard Poncho</s:tag>
+    <s:tag>swag</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6008074338468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6008072798372</id>
+    <published>2021-01-27T19:20:23-05:00</published>
+    <updated>2021-01-27T19:20:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/the-beard-poncho-covid-19-masks-the-sailor"/>
+    <title>The Beard Poncho - Covid-19 Masks - The Sailor</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210127_134402_b1516144-0b5d-4012-b143-3230d3132354.jpg?v=1611793246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It looks like masks, social distancing and precautionary safety measures are going to be around for a while as the world fights Covid-19.  Most masks available on the market today leave a pretty bad crease in the beard once you take it off and just aren't that comfortable to wear.</p>
+<p>We partnered up with a local mask maker and after a few prototypes and some trial and error, the Beard Poncho was born.  Reversible, 100% cotton, with adjustable ear straps and wire in the nose area make this a great fitting, comfortable alternative to the other masks available while still keeping you and others safe, and the best part, no beard crease.</p>
+<p>Available in a number of styles, we are confident you and your beard will love the Beard Poncho.  Scroll through the photos to see the different styles.</p>
+<p><span>If this is the only item on your order, shipping is only $5 within Canada and the USA.</span></p>
+<p>100% Cotton.  Hand wash in cold water.  Hang to dry.</p>
+<p><span>Beard Poncho by the nature of the product and the fact that we are in the midst of the Covid-19 Pandemic are not refundable or returnable.  We apologize for any inconvenience this may cause.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard Poncho</s:tag>
+    <s:tag>swag</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6008072798372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6008059527332</id>
+    <published>2021-01-27T19:13:33-05:00</published>
+    <updated>2021-01-27T19:13:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/copy-of-the-beard-poncho-covid-19-masks-dapper-black-1"/>
+    <title>The Beard Poncho - Covid-19 Masks - Dapper Black</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210127_134601_08017279-8c05-41d2-8962-51ebc4396685.jpg?v=1611793091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It looks like masks, social distancing and precautionary safety measures are going to be around for a while as the world fights Covid-19.  Most masks available on the market today leave a pretty bad crease in the beard once you take it off and just aren't that comfortable to wear.</p>
+<p>We partnered up with a local mask maker and after a few prototypes and some trial and error, the Beard Poncho was born.  Reversible, 100% cotton, with adjustable ear straps and wire in the nose area make this a great fitting, comfortable alternative to the other masks available while still keeping you and others safe, and the best part, no beard crease.</p>
+<p>Available in a number of styles, we are confident you and your beard will love the Beard Poncho.  Scroll through the photos to see the different styles.</p>
+<p><span>If this is the only item on your order, shipping is only $5 within Canada and the USA.</span></p>
+<p>100% Cotton.  Hand wash in cold water.  Hang to dry.</p>
+<p><span>Beard Poncho by the nature of the product and the fact that we are in the midst of the Covid-19 Pandemic are not refundable or returnable.  We apologize for any inconvenience this may cause.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard Poncho</s:tag>
+    <s:tag>swag</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6008059527332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6008049762468</id>
+    <published>2021-01-27T19:08:13-05:00</published>
+    <updated>2021-01-27T19:08:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/copy-of-the-beard-poncho-covid-19-masks-the-pirate"/>
+    <title>The Beard Poncho - Covid-19 Masks - Single Vadar</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210127_134531_14b24223-15ce-4498-bb06-bd166988046c.jpg?v=1611792731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It looks like masks, social distancing and precautionary safety measures are going to be around for a while as the world fights Covid-19.  Most masks available on the market today leave a pretty bad crease in the beard once you take it off and just aren't that comfortable to wear.</p>
+<p>We partnered up with a local mask maker and after a few prototypes and some trial and error, the Beard Poncho was born.  Reversible, 100% cotton, with adjustable ear straps and wire in the nose area make this a great fitting, comfortable alternative to the other masks available while still keeping you and others safe, and the best part, no beard crease.</p>
+<p>Available in a number of styles, we are confident you and your beard will love the Beard Poncho.  Scroll through the photos to see the different styles.</p>
+<p><span>If this is the only item on your order, shipping is only $5 within Canada and the USA.</span></p>
+<p>100% Cotton.  Hand wash in cold water.  Hang to dry.</p>
+<p><span>Beard Poncho by the nature of the product and the fact that we are in the midst of the Covid-19 Pandemic are not refundable or returnable.  We apologize for any inconvenience this may cause.</span></p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard Poncho</s:tag>
+    <s:tag>swag</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6008049762468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6008048681124</id>
+    <published>2021-01-27T19:07:34-05:00</published>
+    <updated>2021-01-27T19:07:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/the-beard-poncho-covid-19-masks-camo-green"/>
+    <title>The Beard Poncho - Covid-19 Masks - Camo Green</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210127_134320_1a0d12cc-ea58-4cba-bc3c-59b12ef1fb23.jpg?v=1611792576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It looks like masks, social distancing and precautionary safety measures are going to be around for a while as the world fights Covid-19.  Most masks available on the market today leave a pretty bad crease in the beard once you take it off and just aren't that comfortable to wear.</p>
+<p>We partnered up with a local mask maker and after a few prototypes and some trial and error, the Beard Poncho was born.  Reversible, 100% cotton, with adjustable ear straps and wire in the nose area make this a great fitting, comfortable alternative to the other masks available while still keeping you and others safe, and the best part, no beard crease.</p>
+<p>Available in a number of styles, we are confident you and your beard will love the Beard Poncho.  Scroll through the photos to see the different styles.</p>
+<p><span>If this is the only item on your order, shipping is only $5 within Canada and the USA.</span></p>
+<p>100% Cotton.  Hand wash in cold water.  Hang to dry.</p>
+<p><span>Beard Poncho by the nature of the product and the fact that we are in the midst of the Covid-19 Pandemic are not refundable or returnable.  We apologize for any inconvenience this may cause.</span></p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard Poncho</s:tag>
+    <s:tag>swag</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6008048681124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6008037474468</id>
+    <published>2021-01-27T19:01:37-05:00</published>
+    <updated>2021-01-27T19:01:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/copy-of-the-beard-poncho-covid-19-masks"/>
+    <title>The Beard Poncho - Covid-19 Masks - The Pirate</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210127_134431_e436e539-400c-4691-a2be-bc6c02878abb.jpg?v=1611792333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It looks like masks, social distancing and precautionary safety measures are going to be around for a while as the world fights Covid-19.  Most masks available on the market today leave a pretty bad crease in the beard once you take it off and just aren't that comfortable to wear.</p>
+<p>We partnered up with a local mask maker and after a few prototypes and some trial and error, the Beard Poncho was born.  Reversible, 100% cotton, with adjustable ear straps and wire in the nose area make this a great fitting, comfortable alternative to the other masks available while still keeping you and others safe, and the best part, no beard crease.</p>
+<p>Available in a number of styles, we are confident you and your beard will love the Beard Poncho.  Scroll through the photos to see the different styles.</p>
+<p><span>If this is the only item on your order, shipping is only $5 within Canada and the USA.</span></p>
+<p>100% Cotton.  Hand wash in cold water.  Hang to dry.</p>
+<p><span>Beard Poncho by the nature of the product and the fact that we are in the midst of the Covid-19 Pandemic are not refundable or returnable.  We apologize for any inconvenience this may cause.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard Poncho</s:tag>
+    <s:tag>swag</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6008037474468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+</feed>

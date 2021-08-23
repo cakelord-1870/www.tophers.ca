@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tophers.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tophers.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tophers.ca/collections/bath-bombs-bubbles-shower-steamers.atom"/>
+  <title>Topher&apos;s Beard + Soap Co.</title>
+  <updated>2021-06-22T04:55:16-04:00</updated>
+  <author>
+    <name>Topher&apos;s Beard + Soap Co.</name>
+  </author>
+  <entry>
+    <id>https://www.tophers.ca/products/6777325715620</id>
+    <published>2021-06-22T04:55:16-04:00</published>
+    <updated>2021-06-22T04:55:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/crazy-for-lemon-shower-steamers-1"/>
+    <title>Crazy for Lemon Shower Steamers</title>
+    <s:type>Shower Steamer</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210622_040924.jpg?v=1624352337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shower Steamer<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Crazy for Lemon steamers are great for getting your day started.  Designed with those that don't take baths in mind, each 3.00 oz shower steamer is good for several showers.  Let the sharp citrus scent of lemon jump start your day by uplifting you body, soul and mind.<br></p>
+<p>Directions for use: Place steamer at far end of bathtub, away from the water but close enough that it gets splashed and is able to release the aromatherapy locked inside.</p>
+<p><strong>☆Shower Use Only☆</strong></p>
+<p><strong>Contains Menthol Crystals.</strong></p>
+<p><em>Ingredients: Sodium Bicarbonate, Citric Acid, Epsom Salts, Zea Mays (Corn) Starch , Sodium Lauryl Sulfoacetate(SLSA), Kaolin, Polysorbate 80, Fragrance, Menthol.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6777325715620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6777254117540</id>
+    <published>2021-06-22T04:36:52-04:00</published>
+    <updated>2021-06-22T04:36:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/sandalwood-rose-shower-steamers"/>
+    <title>Sandalwood + Rose Shower Steamers</title>
+    <s:type>Shower Steamer</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210622_040859.jpg?v=1624351224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shower Steamer<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Sandalwood + Rose shower steamers are great for winding down at the end of the day.  Designed with those that don't take baths in mind, each 2.2 oz shower steamer is good for several showers.  Let the scent of rich sandalwood and heady rose calm your mind, body and soul.<br></p>
+<p>Directions for use: Place steamer at far end of bathtub, away from the water but close enough that it gets splashed and is able to release the aromatherapy locked inside.</p>
+<p><strong>☆Shower Use Only☆</strong></p>
+<p><strong>Contains Menthol Crystals.</strong></p>
+<p><em>Ingredients: Sodium Bicarbonate, Citric Acid, Epsom Salts, Zea Mays (Corn) Starch , Sodium Lauryl Sulfoacetate(SLSA), Kaolin, Polysorbate 80, Fragrance, Menthol.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6777254117540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6777207423140</id>
+    <published>2021-06-22T04:16:27-04:00</published>
+    <updated>2021-06-22T04:16:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/lavender-shower-steamers"/>
+    <title>Lavender Shower Steamers</title>
+    <s:type>Shower Steamer</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210622_040837.jpg?v=1624350081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Shower Steamer<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Lavender shower steamers are great for winding down at the end of the day.  Designed with those that don't take baths in mind, each 2.75 oz shower steamer is good for several showers.  Let the scent of lavender flowers calm your mind, body and soul.<br></p>
+<p>Directions for use: Place steamer at far end of bathtub, away from the water but close enough that it gets splashed and is able to release the aromatherapy locked inside.</p>
+<p><strong>☆Shower Use Only☆</strong></p>
+<p><strong>Contains Menthol Crystals.</strong></p>
+<p><em>Ingredients: Sodium Bicarbonate, Citric Acid, Epsom Salts, Zea Mays (Corn) Starch , Sodium Lauryl Sulfoacetate(SLSA), Kaolin, Polysorbate 80, Essential Oil Blend, Menthol.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6777207423140</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6744189796516</id>
+    <published>2021-06-06T22:01:29-04:00</published>
+    <updated>2021-06-06T22:01:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/copy-of-alligator-bath-bomb"/>
+    <title>Sugar Skull Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210530_211650.jpg?v=1623031756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Our Day of the Dead Sugar Skull Bombs will be sure to bring fun to the bath.  Three hand painted scents and styles to choose from.</span></p>
+<p><span>Everyone knows someone who loves bath bombs!  Topher's Sugar Skull bombs weigh in at around 6.5 oz.  All of bombs will tint your water while surrounding you with our amazing fragrances. </span><br><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Popsicle</s:tag>
+    <s:tag>Specialty</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6744189796516</id>
+      <title>Mango Tango</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6744189796516</id>
+      <title>Pink Chiffon</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6744189796516</id>
+      <title>Jolly Rancher</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6739929464996</id>
+    <published>2021-06-03T18:27:49-04:00</published>
+    <updated>2021-06-03T18:27:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/love-is-love-bath-bomb"/>
+    <title>Love is Love LGBTQ Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210603_180250.jpg?v=1622759823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Happy <span style="color: #ff2a00;"><span color="#ff2a00" style="color: #ff2a00;">P</span><span style="color: #ff8000;"><span color="#ff8000" style="color: #ff8000;">R</span><span style="color: #ffff00;"><span color="#ffff00" style="color: #ffff00;">I</span><span style="color: #80ff00;">D<span style="color: #9c00ff;">E</span></span></span></span></span> Month.  We at Topher's feel that love is love, no matter the person you find to spend the rest of your life with.  Tania hand painted these bombs with the colours of the Pride Flag.  </span></p>
+<p><span mce-data-marked="1">If you don't have family that supports you, consider us family. We are here if you ever need to talk.</span></p>
+<p><span>Everyone knows someone who loves bath bombs!  Topher's Love is Love bombs weigh in at around 3.3 oz.  All of bombs will tint your water while surrounding you with our amazing fragrances. </span><br><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Popsicle</s:tag>
+    <s:tag>Specialty</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6739929464996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6723089924260</id>
+    <published>2021-05-26T15:56:04-04:00</published>
+    <updated>2021-05-26T15:56:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/bath-bomb-rubble"/>
+    <title>Bath Bomb Rubble</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210526_115444.jpg?v=1622059098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1"></span><span></span>Bath Bomb Rubble is a fun assorted mix of broken bombs, bath bomb dust, bubble frosting and kid size glycerin soaps.  We package it all up in bags with 13.5 ounces or more of fizzing fun.  Each bath will be a surprise as you never know what scent or color will come out of the bag next.<br><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<p><br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Specialty</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6723089924260</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6660335337636</id>
+    <published>2021-04-20T11:57:22-04:00</published>
+    <updated>2021-04-20T11:57:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/sandalwood-rose-petal-foaming-bath-bomb"/>
+    <title>Sandalwood + Rose Petal Foaming Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210420_120603.jpg?v=1618935017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sensual sandalwood and heady rose petal. Grounded, rich and exotic, known for revitalizing energies and purifying the mind.</span></p>
+<p><span data-mce-fragment="1">Topher's Bath Bombs are about 2.75 oz in size + made with all top quality ingredients.  All our bombs will tint your water while surrounding you with amazing fragrances. </span></p>
+<p><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Round</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6660335337636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6660330160292</id>
+    <published>2021-04-20T11:48:34-04:00</published>
+    <updated>2021-04-20T11:48:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/sandalwood-rose-petal-chill-pill-bath-bomb"/>
+    <title>Sandalwood + Rose Petal Chill Pill Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/IMG_20210418_204857.jpg?v=1618934483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Sensual sandalwood and heady rose petal.  Grounded, rich and exotic, known for revitalizing energies and purifying the mind.</span></p>
+<p><span>Everyone knows someone who just needs to chill!  Topher's Chill Pills weigh in at around 6 oz + are 3 1/2 inches in diameter.  All of bombs will tint your water while surrounding you with our amazing fragrances. </span><br><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Chill Pill</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6660330160292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6655962710180</id>
+    <published>2021-04-17T18:04:33-04:00</published>
+    <updated>2021-04-17T18:04:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/pineapple-bath-bomb"/>
+    <title>Pineapple Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/Pineapple.jpg?v=1618697132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">A pineapple bath bomb scented in . . . .if you guessed Pineapple you win!  These are large bombs which could be broken in half for enough bath bomb for 2 baths.</span></p>
+<p><span>Everyone knows someone who loves bath bombs! Topher's Pineapple bombs weigh in at around 6 oz. All of bombs will tint your water while surrounding you with our amazing fragrances. </span><br><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Popsicle</s:tag>
+    <s:tag>Specialty</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6655962710180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6655947604132</id>
+    <published>2021-04-17T17:37:50-04:00</published>
+    <updated>2021-04-17T17:37:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/sunflower-bath-bomb"/>
+    <title>Sunflower Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/Sunflower.jpg?v=1618695605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Shark Bite Bath Bombs. Bring Jaws to life with these shark head bath bombs. Blood pours from the mouth, but don't worry they won't hurt you. They'll just smell great and condition your water for a more relaxing bath experience.</span></p>
+<p><span>Everyone knows someone who loves bath bombs! Topher's Shark Bite bombs weigh in at around 4.6 oz. All of bombs will tint your water while surrounding you with our amazing fragrances. </span><br><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Popsicle</s:tag>
+    <s:tag>Specialty</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6655947604132</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>156</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6655940034724</id>
+    <published>2021-04-17T17:28:47-04:00</published>
+    <updated>2021-04-17T17:28:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/shark-bite-bath-bomb"/>
+    <title>Shark Bite Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/SharkBiteBlue.jpg?v=1618695261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Shark Bite Bath Bombs. Bring Jaws to life with these shark head bath bombs. Blood pours from the mouth, but don't worry they won't hurt you. They'll just smell great and condition your water for a more relaxing bath experience.</span></p>
+<p><span>Everyone knows someone who loves bath bombs! Topher's Shark Bite bombs weigh in at around 4.6 oz. All of bombs will tint your water while surrounding you with our amazing fragrances. </span><br><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Popsicle</s:tag>
+    <s:tag>Specialty</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6655940034724</id>
+      <title>Blue - Hawaiian Butter</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku/>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6655940034724</id>
+      <title>Grey - Sour Patch Kids</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku/>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6655922372772</id>
+    <published>2021-04-17T17:19:33-04:00</published>
+    <updated>2021-04-17T17:19:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/crazy-troll-bath-bomb"/>
+    <title>Crazy Troll Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210414_185106.jpg?v=1618694386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Troll dolls were all the rage in the 90s and we are bringing em back.  This time they are for the tub, with silky foam, great scent and tinted water. </span></p>
+<p><span>Everyone knows someone who loves bath bombs!  Topher's Troll bombs weigh in at around 4.5 oz.  All of bombs will tint your water while surrounding you with our amazing fragrances. </span><br><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Popsicle</s:tag>
+    <s:tag>Specialty</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6655922372772</id>
+      <title>Candylicous</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6655922372772</id>
+      <title>Lemony Sunshine</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6630995001508</id>
+    <published>2021-04-03T14:28:39-04:00</published>
+    <updated>2021-04-03T14:28:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/mango-tango-chill-pill-bath-bomb"/>
+    <title>Mango Tango Chill Pill Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210403_141804.jpg?v=1617474577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Juicy mango meets sweet, succulent Papaya in the tropical mashup, coconut and musk round out this amazing scent.</span></p>
+<p><span>Everyone knows someone who just needs to chill!  Topher's Chill Pills weigh in at around 6 oz + are 3 1/2 inches in diameter.  All of bombs will tint your water while surrounding you with our amazing fragrances. </span><br><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Chill Pill</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6630995001508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/4795063337099</id>
+    <published>2021-03-18T19:34:19-04:00</published>
+    <updated>2021-03-18T19:34:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/diy-bath-bomb-painting-kit"/>
+    <title>DIY Bath Bomb Painting Kit</title>
+    <s:type></s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20200415_212840.jpg?v=1598835474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Taking your coloring to the next level with our paintable bath bomb kits. Several different fun bathbomb shapes are available with 3 ready to use water soluble paints and a paintbrush.</p>
+<p>Kids and adults will enjoy painting their masterpiece before later using it in their bath to find the hidden surprise color inside.</p>
+<p>Paints won't stain you or your tub.</p>
+<p><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<ul>
+<li>
+<b>Paints -</b>﻿ Polyester 3, Manganese Violet, Red 28 , Pigment Green 7</li>
+</ul>
+<p><br><span><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Bath Bomb Kit</s:tag>
+    <s:tag>Kits</s:tag>
+    <s:tag>round</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4795063337099</id>
+      <title>Heart</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4795063337099</id>
+      <title>Chubby Unicorn</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4795063337099</id>
+      <title>Bunny Butt</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4795063337099</id>
+      <title>Cactus</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4795063337099</id>
+      <title>Frozen Ice Cream Treat</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4795063337099</id>
+      <title>Crocodile</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/4795063337099</id>
+      <title>No Drama Llama</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6592577798308</id>
+    <published>2021-03-16T20:56:15-04:00</published>
+    <updated>2021-03-16T20:56:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/baby-groot-bath-bomb"/>
+    <title>Baby Groot Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/IMG_20210310_132148.jpg?v=1615942944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Our Baby Groot Bath Bombs will be sure to bring fun to the bath.  Awaken your senses with a burst of bergamot and lemon, followed by calming lemongrass and nuances of avocado.</span></p>
+<p><span>Everyone knows someone who loves bath bombs!  Topher's hand painted Baby Groot bombs weigh in at around 4.0 oz.  All of bombs will tint your water while surrounding you with our amazing fragrances. </span><br><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Popsicle</s:tag>
+    <s:tag>Specialty</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6592577798308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6564341416100</id>
+    <published>2021-03-06T13:16:37-05:00</published>
+    <updated>2021-03-06T13:16:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/puppy-paw-bath-bomb"/>
+    <title>Puppy Paw Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/received_921773541910056_4dc32f48-f713-447d-aa51-f1b0fc5719ba.jpg?v=1615054930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1"><strong>100% of all Puppy Paw Sales will be donated to Sato Saved End of the Line Dog Rescue &amp; Rehabilitation. Until Paw overstock is sold out.</strong></span></p>
+<p><span mce-data-marked="1">We made these paws for a friend who was raising funds for her puppy who needed an operation.  We have a bunch of paws left over and thought we would donate the remainder of the money made on these back to Sato Dog Rescue and Rehab.  The same company that covered the costs of the operation for Lucy originally.</span></p>
+<p><span>Everyone knows someone who loves bath bombs!  Topher's baby dino bombs  weigh in at around 5.5 oz.  All of bombs will tint your water while surrounding you with our amazing fragrances. </span><br><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<p><br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Popsicle</s:tag>
+    <s:tag>Specialty</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6564341416100</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6564154179748</id>
+    <published>2021-03-06T11:48:21-05:00</published>
+    <updated>2021-03-06T11:48:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/chubby-bunny-bath-bomb"/>
+    <title>Chubby Bunny Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/IMG_20210305_125153.jpg?v=1615049983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="color: #ff2a00;" mce-data-marked="1">Limited Stock Available - Seasonal Item</span></strong></p>
+<p><span mce-data-marked="1">Chubby Bunnys are scented in Froot Loops.  We sprayed these with chocolate colored mica to make them look like chocolate but they are definitely a bath bomb with a hot pink color inside.</span></p>
+<p><span>Everyone knows someone who loves bath bombs!  Topher's Chubby Bunny bombs weigh in at around 5.5 oz.  All of bombs will tint your water while surrounding you with our amazing fragrances. </span><br><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Popsicle</s:tag>
+    <s:tag>Specialty</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6564154179748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6546908053668</id>
+    <published>2021-03-01T15:57:13-05:00</published>
+    <updated>2021-03-01T15:57:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/dino-rocks-with-hatchable-mini-dino-toy-egg-inside"/>
+    <title>Dino Rocks</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210301_153717.jpg?v=1614633009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dig through the bath bomb dust and rubble to find the hatchable egg and hatch your very own dinosaur toy.  Among the rubble is a mini dino egg that if left in water, hatches in around 24 hours and grows to full size in another day or 2.  With 12 oz of rubble and dust, you'll get several baths even after the egg has been found.</p>
+<p>Caution :  Small Toy inside can pose a choking hazard.  Not for children under 3 years of age.  Adult supervision required.</p>
+<p><span>Everyone knows someone who loves bath bombs!  All of our bath bombs will tint your water while surrounding you with our amazing fragrances. </span><br><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Specialty</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6546908053668</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6546621071524</id>
+    <published>2021-03-01T13:37:42-05:00</published>
+    <updated>2021-03-01T13:37:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/rosemary-mint-foaming-bath-bomb"/>
+    <title>Rosemary Mint Foaming Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210301_113429.jpg?v=1614624056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Rosemary and Mint are a perfect duo, like pb and jelly or bacon and eggs.  We've found the perfect ratio of both to add to our bombs.</span></p>
+<p><span data-mce-fragment="1">Topher's Bath Bombs are about 2.75 oz in size + made with all top quality ingredients.  All our bombs will tint your water while surrounding you with amazing fragrances. </span></p>
+<p><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Round</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6546621071524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6546598953124</id>
+    <published>2021-03-01T13:30:20-05:00</published>
+    <updated>2021-03-01T13:30:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/painted-heart-bath-bombs"/>
+    <title>Painted Heart Bath Bombs</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/IMG_20210228_203921.jpg?v=1614623667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Our Painted Heart bombs come in several scents. These bombs are large, just over 6 oz each.   Our Painted Heart Bath Bombs will be sure to bring fun to the bath.  </span></p>
+<p><span>Everyone knows someone who loves bath bombs!  Topher's Painted Heart bombs weigh in at around 6 oz each for a total of 9 oz per package.  All of bombs will tint your water while surrounding you with our amazing fragrances. </span></p>
+<p><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Popsicle</s:tag>
+    <s:tag>Specialty</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6546598953124</id>
+      <title>Unicorn</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6546598953124</id>
+      <title>Caribbean Crush</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6546598953124</id>
+      <title>Passion Fruit</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6546487705764</id>
+    <published>2021-03-01T12:50:14-05:00</published>
+    <updated>2021-03-01T12:50:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/copy-of-dino-monster-bath-bomb"/>
+    <title>Hanging with my Peeps Double Bunny Bath Bombs</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/IMG_20210228_210211.jpg?v=1614623593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Hanging with our Peeps is our homage to the iconic Easter Candy of our youth.   Our Peeps Bath Bombs will be sure to bring fun to the bath.  One is scented with Grape Soda and the other in Cream Soda..</span></p>
+<p><span>Everyone knows someone who loves bath bombs!  Topher's Peeps bombs weigh in at around 4.5 oz each for a total of 9 oz per package.  All of bombs will tint your water while surrounding you with our amazing fragrances. </span></p>
+<p><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Popsicle</s:tag>
+    <s:tag>Specialty</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6546487705764</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6546450677924</id>
+    <published>2021-03-01T12:35:48-05:00</published>
+    <updated>2021-03-01T12:35:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/dino-monster-bath-bomb"/>
+    <title>Dino Monster Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210301_113611.jpg?v=1614620464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">We call them Dino Monster but there is nothing scary about this bath bomb.  Our Dino Monster Bath Bombs will be sure to bring fun to the bath.  Scented with Blue Raspberry.</span></p>
+<p><span>Everyone knows someone who loves bath bombs!  Topher's Dino Monster bombs weigh in at around 5.5 oz.  All of bombs will tint your water while surrounding you with our amazing fragrances. </span><br><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Popsicle</s:tag>
+    <s:tag>Specialty</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6546450677924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6546411061412</id>
+    <published>2021-03-01T12:20:15-05:00</published>
+    <updated>2021-03-01T12:20:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/alligator-bath-bomb"/>
+    <title>Alligator Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210301_122728.jpg?v=1614619688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Our Alligator Bath Bombs will be sure to bring fun to the bath.  Scented with Cream Soda and filled with a surprise hidden color.</span></p>
+<p><span>Everyone knows someone who loves bath bombs!  Topher's Alligator bombs weigh in at around 5.5 oz.  All of bombs will tint your water while surrounding you with our amazing fragrances. </span><br><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Popsicle</s:tag>
+    <s:tag>Specialty</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6546411061412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6546395463844</id>
+    <published>2021-03-01T12:14:23-05:00</published>
+    <updated>2021-03-01T12:14:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/leprechaun-bath-bomb"/>
+    <title>Leprechaun Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210301_113548.jpg?v=1614619143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Now on St Patricks day, or any day of the year you can celebrate the Irish by drinking your green beer in a green bath with our Leprechaun Bath Bombs.  Leprechaun Bath Bombs will be sure to bring fun to the bath.  Scented with an uplifting blend of citrus and greenery.</span></p>
+<p><span>Everyone knows someone who loves bath bombs!  Topher's Alligator bombs weigh in at around 5.5 oz.  All of bombs will tint your water while surrounding you with our amazing fragrances. </span><br><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Popsicle</s:tag>
+    <s:tag>Specialty</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6546395463844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>156</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tophers.ca/products/6546361286820</id>
+    <published>2021-03-01T11:59:57-05:00</published>
+    <updated>2021-03-01T11:59:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tophers.ca/products/love-bear-bath-bomb"/>
+    <title>Love Bear Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Topher&apos;s Beard + Soap Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2668/4516/products/20210301_113602.jpg?v=1614618141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topher&#39;s Beard + Soap Co.<br>
+        <strong>Type: </strong>Bath Bomb<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Go back in time to the 80s when Care Bears were all the rage with our Love Bear.  Love Bear Bath Bombs will be sure to bring fun to the bath.  Scented in Pink Sugar.</span></p>
+<p><span>Everyone knows someone who loves bath bombs!  Topher's Love Bear bombs weigh in at around 4.5 oz.  All of bombs will tint your water while surrounding you with our amazing fragrances. </span><br><br><span>Our bombs are made with. . . . ​</span></p>
+<ul>
+<li><span><strong>Baking Soda - </strong>Makes skin feel silky + soft.  When combined with Citric Acid creates the fizz.</span></li>
+</ul>
+<ul>
+<li><span><strong>Citric Acid -</strong> ​Other half of the fizz + source of vitamin C.</span></li>
+</ul>
+<ul>
+<li><span><strong>Epsom Salts -</strong> Otherwise knows as hydrated magnesium sulfate, works wonders to relax sore and tired muscles.  Helps to relieve inflammation.</span></li>
+</ul>
+<ul>
+<li><span><strong>Corn Starch -</strong> Soothes + relieves dry, itchy skin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Kaolin Clay -</strong> Helps to lock in the scent + make your water feel softer.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sweet Almond Oil -</strong> Moisturizing light oil to help soften your skin while you soak.</span></li>
+</ul>
+<ul>
+<li><span><strong>Polysorbate 80 -</strong> Helps to spread the oils throughout the water + keep any colorants or dyes from sticking to you or your tub or giving you the awful bath bomb ring around the tub.</span></li>
+</ul>
+<ul>
+<li><span><strong>Sodium Lauryl Sulfoacetate (SLSA) -</strong> This creates soft, silky bubbles to make your bath more luxurious.  Don't confuse this with SLS.  Our SLSA is derived from coconut + palm oils, while conforming to Ecocert's natural + organic cosmetic standard and is 100% of natural origin.</span></li>
+</ul>
+<ul>
+<li><span><strong>Essential Oils and/or Fragrance -</strong> We only use high quality Essential oils or phthalate, paraben + sulfate free fragrance oils sourced in North America.</span></li>
+</ul>
+<br><span style="color: #000000;"><strong><span color="#545454">While our products are mild enough for children and those with sensitive skin we do suggest to test on skin before use, as they may contain allergens.</span></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Bomb</s:tag>
+    <s:tag>Popsicle</s:tag>
+    <s:tag>Specialty</s:tag>
+    <s:variant>
+      <id>https://www.tophers.ca/products/6546361286820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>156</s:grams>
+    </s:variant>
+  </entry>
+</feed>
